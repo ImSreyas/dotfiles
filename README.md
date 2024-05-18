@@ -2,5 +2,5 @@
 Important Configuration files 🔥
 
 Includes 
-- fish config file.
+- fish shell config file.
 - VS code user settings file.
