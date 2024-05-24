@@ -28,7 +28,7 @@ unset rc
 . "$HOME/.cargo/env"
 
 
-# User defined alias
+# User defined custom configs:
 alias edit="code ."
 alias editx="code . && exit"
 alias phpon="sudo systemctl start httpd && sudo systemctl start mariadb"
