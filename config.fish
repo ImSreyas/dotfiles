@@ -8,6 +8,8 @@ alias phpoff="sudo systemctl stop httpd && sudo systemctl stop mariadb"
 alias publicip="curl http://checkip.amazonaws.com"
 alias ss="systemctl suspend"
 alias take-snapshot="sudo btrfs subvolume snapshot / /Backup/$(date +'%d-%b-%Y')"
+alias gnome-quit="gnome-session-quit --logout"
+alias gnome-quitx="gnome-session-quit --logout --no-prompt"
 
 # bun
 set --export BUN_INSTALL "$HOME/.bun"
