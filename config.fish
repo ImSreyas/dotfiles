@@ -9,8 +9,6 @@ alias publicip="curl http://checkip.amazonaws.com"
 alias ss="systemctl suspend"
 alias take-snapshot="sudo btrfs subvolume snapshot / /Backup/$(date +'%d-%b-%Y')"
 
-
-
 # bun
 set --export BUN_INSTALL "$HOME/.bun"
 set --export PATH $BUN_INSTALL/bin $PATH

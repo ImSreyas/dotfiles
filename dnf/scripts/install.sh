@@ -1,4 +1,5 @@
-mapfile -t packages < "packages.txt"
+file_content="../packages.txt"
+mapfile -t packages < "$file_content"
 for package in "${packages[@]}"; do 
 	echo "$package"
 done

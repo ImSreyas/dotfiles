@@ -30,15 +30,15 @@ egl-wayland-1.1.13-3.fc40.x86_64
 elfutils-libelf-devel-0.191-4.fc40.x86_64
 fakeroot-1.34-1.fc40.x86_64
 fakeroot-libs-1.34-1.fc40.x86_64
-fastfetch-2.11.5-1.fc40.x86_64
+fastfetch-2.13.1-1.fc40.x86_64
 fish-3.7.0-2.fc40.x86_64
 flex-2.6.4-16.fc40.x86_64
 fonts-srpm-macros-1:2.0.5-14.fc40.noarch
 fpc-srpm-macros-1.3-12.fc40.noarch
 ftp-0.17-95.fc40.x86_64
 gc-8.2.2-6.fc40.x86_64
-gcc-14.1.1-1.fc40.x86_64
-gcc-plugin-annobin-14.1.1-1.fc40.x86_64
+gcc-14.1.1-4.fc40.x86_64
+gcc-plugin-annobin-14.1.1-4.fc40.x86_64
 gdk-pixbuf2-xlib-2.40.2-9.fc40.x86_64
 ghc-srpm-macros-1.9-1.fc40.noarch
 ghostscript-tools-fonts-10.02.1-8.fc40.noarch
@@ -50,7 +50,7 @@ gnat-srpm-macros-6-5.fc40.noarch
 gnome-software-fedora-langpacks-46.1-1.fc40.x86_64
 gnome-tweaks-46.1-1.fc40.noarch
 go-srpm-macros-3.5.0-1.fc40.noarch
-google-chrome-stable-125.0.6422.112-1.x86_64
+google-chrome-stable-125.0.6422.141-1.x86_64
 gparted-1.6.0-1.fc40.x86_64
 gstreamer1-plugin-openh264-1.22.12-1.fc40.x86_64
 gstreamer1-plugins-bad-free-extras-1.22.12-1.fc40.x86_64
@@ -58,6 +58,7 @@ gstreamer1-plugins-good-extras-1.22.12-1.fc40.x86_64
 guile22-2.2.7-11.fc40.x86_64
 htop-3.3.0-3.fc40.x86_64
 http-parser-2.9.4-11.fc40.x86_64
+i3-4.23-3.fc40.x86_64
 iftop-1.0-0.33.pre4.fc40.x86_64
 imlib2-1.11.1-5.fc40.x86_64
 inotify-tools-3.22.1.0-7.fc40.x86_64
@@ -108,7 +109,7 @@ nbdkit-1.38.2-1.fc40.x86_64
 nbdkit-curl-plugin-1.38.2-1.fc40.x86_64
 nbdkit-ssh-plugin-1.38.2-1.fc40.x86_64
 neofetch-7.1.0-12.fc40.noarch
-neovim-0.9.5-4.fc40.x86_64
+neovim-0.10.0-5.fc40.x86_64
 nodejs-1:20.12.2-1.fc40.x86_64
 nodejs-docs-1:20.12.2-1.fc40.noarch
 nodejs-full-i18n-1:20.12.2-1.fc40.x86_64
@@ -159,7 +160,7 @@ snapd-2.62-0.fc40.x86_64
 snapd-selinux-2.62-0.fc40.noarch
 snapper-0.10.4-4.fc40.x86_64
 speedtest-cli-2.1.3-10.fc40.noarch
-systemd-rpm-macros-255.6-1.fc40.noarch
+systemd-rpm-macros-255.7-1.fc40.noarch
 telegram-desktop-5.0.1-1.fc40.x86_64
 tldr-3.2.0-4.fc40.noarch
 toilet-0.3-16.fc40.x86_64
