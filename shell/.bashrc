@@ -39,3 +39,5 @@ alias take-snapshot="sudo btrfs subvolume snapshot / /Backup/$(date +'%d-%b-%Y')
 alias gnomequit="gnome-session-quit --logout"
 alias gnomequitx="gnome-session-quit --logout --no-prompt"
 
+# mew path
+export PATH="$PATH:$HOME/.mew/bin/"

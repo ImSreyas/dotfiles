@@ -17,7 +17,7 @@
   "workbench.iconTheme": "material-icon-theme",
   "editor.fontWeight": "330",
   "window.title": "${folderPath}",
-  "editor.fontSize": 17,
+  "editor.fontSize": 14,
   "workbench.startupEditor": "none",
   "editor.cursorBlinking": "expand",
   "editor.formatOnSave": true,
@@ -55,6 +55,7 @@
   "tailwind-fold.autoFold": false,
   "hediet.vscode-drawio.resizeImages": null,
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "workbench.sideBar.location": "right"
+  "workbench.sideBar.location": "right",
+  "prisma.showPrismaDataPlatformNotification": false
   // "window.titleBarStyle": "custom",
 }
