@@ -32,3 +32,9 @@ setopt appendhistory
 
 # Mew path
 export PATH="$PATH:$HOME/.mew/bin/"
+
+# Alias
+path=~/.aliases
+if [[ -f $path ]]; then
+	source $path
+fi 
