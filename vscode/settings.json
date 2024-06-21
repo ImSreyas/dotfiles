@@ -21,7 +21,6 @@
   "workbench.startupEditor": "none",
   "editor.cursorBlinking": "expand",
   "editor.formatOnSave": true,
-  "editor.minimap.enabled": false,
   "git.enableSmartCommit": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.cursorSmoothCaretAnimation": "on",
@@ -56,6 +55,9 @@
   "hediet.vscode-drawio.resizeImages": null,
   "typescript.updateImportsOnFileMove.enabled": "always",
   "workbench.sideBar.location": "right",
-  "prisma.showPrismaDataPlatformNotification": false
+  "prisma.showPrismaDataPlatformNotification": false,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  }
   // "window.titleBarStyle": "custom",
 }

@@ -23,12 +23,15 @@ source $ZSH/oh-my-zsh.sh
 pokemon-colorscripts --no-title -s -r
 
 # Set-up FZF key bindings (CTRL R for fuzzy history finder)
-source <(fzf --zsh)
+# source <(fzf --zsh)
 
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
 SAVEHIST=10000
 setopt appendhistory
+
+# Bin path
+export PATH="$PATH:$HOME/.local/bin:$HOME/go/bin"
 
 # Mew path
 export PATH="$PATH:$HOME/.mew/bin/"
