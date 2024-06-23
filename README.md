@@ -1,8 +1,9 @@
-# dot-files
+<div align="center"> 
+  
+# Dotfiles
 Important Configuration files 🔥
+  
+` Folder structure `<br><br>
+<img src="https://github.com/ImSreyas/dotfiles/blob/assets/preview.png" />
 
-Includes 
-- bash shell config file.
-- fish shell config file.
-- VS code user settings file.
-- Packages
+</div>
