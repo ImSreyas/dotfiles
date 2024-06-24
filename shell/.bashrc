@@ -27,6 +27,9 @@ fi
 unset rc
 . "$HOME/.cargo/env"
 
+# Editor
+export EDITOR="/bin/vim"
+
 # mew path
 export PATH="$PATH:$HOME/.mew/bin/"
 
@@ -35,3 +38,4 @@ path=~/.aliases
 if [[ -f $path ]]; then
   source $path
 fi 
+

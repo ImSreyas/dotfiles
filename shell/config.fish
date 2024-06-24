@@ -12,6 +12,9 @@ set --export PATH $BUN_INSTALL/bin $PATH
 # Bin path
 export PATH="$PATH:$HOME/.local/bin:$HOME/go/bin"
 
+# Editor
+export EDITOR="/bin/vim"
+
 # Mew path
 export PATH="$PATH:$HOME/.mew/bin/"
 
@@ -20,3 +23,4 @@ set path ~/.aliases
 if test -f $path 
 source $path
 end
+
