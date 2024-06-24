@@ -1,0 +1,7 @@
+[manager]
+ratio = [1, 2, 3]
+show_hidden = true
+scrolloff = 10
+sort_by="modified"
+sort_reverse=true
+
