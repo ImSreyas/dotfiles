@@ -18,7 +18,6 @@ bison-3.8.2-7.fc40.x86_64
 blueman-1:2.4.2-1.fc40.x86_64
 bluez-deprecated-5.76-1.fc40.x86_64
 bluez-tools-0.2.0-0.23.git20170912.7cb788c.fc40.x86_64
-brave-browser-1.67.119-1.x86_64
 btop-1.3.2-1.fc40.x86_64
 caca-utils-0.99-0.73.beta20.fc40.x86_64
 cargo-1.79.0-3.fc40.x86_64
@@ -57,8 +56,8 @@ fpc-srpm-macros-1.3-12.fc40.noarch
 ftp-0.17-95.fc40.x86_64
 fzf-0.44.1-3.fc40.x86_64
 gc-8.2.2-6.fc40.x86_64
-gcc-14.1.1-5.fc40.x86_64
-gcc-plugin-annobin-14.1.1-5.fc40.x86_64
+gcc-14.1.1-6.fc40.x86_64
+gcc-plugin-annobin-14.1.1-6.fc40.x86_64
 gdk-pixbuf2-xlib-2.40.2-9.fc40.x86_64
 ghc-srpm-macros-1.9-1.fc40.noarch
 ghostscript-tools-fonts-10.02.1-9.fc40.noarch
