@@ -44,7 +44,7 @@ egl-wayland-1.1.13-3.fc40.x86_64
 elfutils-libelf-devel-0.191-4.fc40.x86_64
 fakeroot-1.34-1.fc40.x86_64
 fakeroot-libs-1.34-1.fc40.x86_64
-fastfetch-2.15.0-1.fc40.x86_64
+fastfetch-2.16.0-1.fc40.x86_64
 feh-3.10.2-3.fc40.x86_64
 ffmpegthumbnailer-2.2.3-0.7.20240104git1b5a779.fc40.x86_64
 file-roller-44.3-1.fc40.x86_64
@@ -86,7 +86,7 @@ guile22-2.2.7-11.fc40.x86_64
 htop-3.3.0-3.fc40.x86_64
 http-parser-2.9.4-11.fc40.x86_64
 hypridle-0.1.2-1.fc40.x86_64
-hyprland-0.41.1-1.fc40.x86_64
+hyprland-0.41.2-1.fc40.x86_64
 hyprlock-0.3.0-1.fc40.x86_64
 i3-4.23-3.fc40.x86_64
 i3blocks-1.5-9.fc40.x86_64
@@ -117,7 +117,7 @@ kernel-modules-extra-6.8.11-300.fc40.x86_64
 kernel-modules-extra-6.9.4-200.fc40.x86_64
 kernel-modules-extra-6.9.5-200.fc40.x86_64
 kernel-srpm-macros-1.0-23.fc40.noarch
-kitty-0.35.1-5.fc40.x86_64
+kitty-0.35.2-1.fc40.x86_64
 kmod-nvidia-6.8.11-300.fc40.x86_64-3:550.90.07-1.fc40.x86_64
 kmod-nvidia-6.9.4-200.fc40.x86_64-3:550.90.07-1.fc40.x86_64
 kmod-nvidia-6.9.5-200.fc40.x86_64-3:550.90.07-1.fc40.x86_64
@@ -188,7 +188,7 @@ python3-pygit2-1.14.0-1.fc40.x86_64
 python3-pyquery-1.4.3-16.fc40.noarch
 python3-pytz-2024.1-1.fc40.noarch
 python3-requests-gssapi-1.2.3-11.fc40.noarch
-python3-rpmautospec-0.6.4-1.fc40.noarch
+python3-rpmautospec-0.6.5-1.fc40.noarch
 python3-utils-3.7.0-3.fc40.noarch
 qalculate-gtk-4.9.0-3.fc40.x86_64
 qbittorrent-1:4.6.5-1.fc40.x86_64
