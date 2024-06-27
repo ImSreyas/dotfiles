@@ -206,6 +206,7 @@ rpmfusion-nonfree-release-40-1.noarch
 rust-srpm-macros-26.3-1.fc40.noarch
 sassc-3.6.2-9.fc40.x86_64
 screenfetch-3.9.1-10.fc40.noarch
+shc-4.0.3-11.fc40.x86_64
 snap-confine-2.63-0.fc40.x86_64
 snapd-2.63-0.fc40.x86_64
 snapd-selinux-2.63-0.fc40.noarch

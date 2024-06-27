@@ -24,3 +24,4 @@ if test -f $path
 source $path
 end
 
+# New line
