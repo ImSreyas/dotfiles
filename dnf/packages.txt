@@ -7,8 +7,8 @@ akmods-0.5.8-8.fc40.noarch
 anaconda-40.22.3-1.fc40.x86_64
 anaconda-install-env-deps-40.22.3-1.fc40.x86_64
 anaconda-live-40.22.3-1.fc40.noarch
-annobin-docs-12.57-1.fc40.noarch
-annobin-plugin-gcc-12.57-1.fc40.x86_64
+annobin-docs-12.60-1.fc40.noarch
+annobin-plugin-gcc-12.60-1.fc40.x86_64
 ansible-srpm-macros-1-14.fc40.noarch
 aylurs-gtk-shell-1.8.2-1.fc40.x86_64
 bat-0.24.0-6.fc40.x86_64
@@ -69,7 +69,7 @@ glib2-devel-2.80.3-1.fc40.x86_64
 glibc-devel-2.39-15.fc40.x86_64
 glibc-headers-x86-2.39-15.fc40.noarch
 gnat-srpm-macros-6-5.fc40.noarch
-gnome-software-fedora-langpacks-46.2-1.fc40.x86_64
+gnome-software-fedora-langpacks-46.3-1.fc40.x86_64
 gnome-tweaks-46.1-1.fc40.noarch
 go-srpm-macros-3.5.0-1.fc40.noarch
 golang-1.22.4-1.fc40.x86_64
