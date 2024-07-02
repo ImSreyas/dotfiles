@@ -7,4 +7,4 @@ alias take-snapshot="sudo btrfs subvolume snapshot / /Backup/$(date +'%d-%b-%Y')
 alias gnomequit="gnome-session-quit --logout"
 alias gnomequitx="gnome-session-quit --logout --no-prompt"
 alias get="sudo dnf install"
-
+alias ls="lsd"
