@@ -1,4 +1,3 @@
-[manager]
-prepend_keymap = [
-	{ on = [ "<C-A-t>" ], run = 'kitty ./', desc = "Just for test!" },
-]
+[[manager.prepend_keymap]]
+on = [ "<C-A-t>" ]
+run = ''
