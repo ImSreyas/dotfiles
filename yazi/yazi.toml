@@ -32,6 +32,9 @@ play = [
 	{ run = 'vlc "$@"', desc = "VLC", orphan = true },
 	{ run = '''mediainfo "$1"; echo "Press enter to exit"; read _''', block = true, desc = "Show media info", for = "unix" },
 ]
+install = [
+	{ run = 'sudo dnf localinstall "$@"', desc = "RPM install", block = true },
+]
 
 [open]
 rules = [
@@ -41,6 +44,8 @@ rules = [
 	{ mime = "image/*",         use = [ "open", "reveal" ] },
 	{ mime = "{audio,video}/*", use = [ "play", "reveal" ] },
 	{ mime = "inode/x-empty",   use = [ "edit", "reveal" ] },
+
+	{ mime = "application/x-rpm", use = [ "install", "open" ] },
 
 	{ mime = "application/{,g}zip", use = [ "extract", "reveal" ] },
 	{ mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", use = [ "extract", "reveal" ] },
