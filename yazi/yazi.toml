@@ -1,13 +1,52 @@
 [manager]
-ratio = [1, 2, 2]
+# ratio = [2, 4, 3]
+ratio = [2, 4, 4]
 show_hidden = true
 scrolloff = 10
 sort_by = "modified"
 sort_reverse = true
 sort_dir_first = true
+linemode = "size"
 
 [preview]
 max_width = 800
 
 [input]
 origin = 'center'
+
+[opener]
+edit = [
+	{ run = '${EDITOR:=vi} "$@"', desc = "$EDITOR", block = true, for = "unix" },
+]
+open = [
+	{ run = 'xdg-open "$1"',                desc = "Open", for = "linux" },
+]
+reveal = [
+	{ run = 'xdg-open "$(dirname "$1")"',            desc = "Reveal", for = "linux" },
+	{ run = '''exiftool "$1"; echo "Press enter to exit"; read _''', block = true, desc = "Show EXIF", for = "unix" },
+]
+extract = [
+	{ run = 'unar "$1"', desc = "Extract here", for = "unix" },
+]
+play = [
+	{ run = 'vlc "$@"', desc = "VLC", orphan = true },
+	{ run = '''mediainfo "$1"; echo "Press enter to exit"; read _''', block = true, desc = "Show media info", for = "unix" },
+]
+
+[open]
+rules = [
+	{ name = "*/", use = [ "edit", "open", "reveal" ] },
+
+	{ mime = "text/*",          use = [ "edit", "reveal" ] },
+	{ mime = "image/*",         use = [ "open", "reveal" ] },
+	{ mime = "{audio,video}/*", use = [ "play", "reveal" ] },
+	{ mime = "inode/x-empty",   use = [ "edit", "reveal" ] },
+
+	{ mime = "application/{,g}zip", use = [ "extract", "reveal" ] },
+	{ mime = "application/x-{tar,bzip*,7z-compressed,xz,rar}", use = [ "extract", "reveal" ] },
+
+	{ mime = "application/{json,x-ndjson}", use = [ "edit", "reveal" ] },
+	{ mime = "*/javascript", use = [ "edit", "reveal" ] },
+
+	{ name = "*", use = [ "open", "reveal" ] },
+]

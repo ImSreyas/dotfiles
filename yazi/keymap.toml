@@ -6,4 +6,3 @@ run = 'quit'
 on = [ "e" ]         
 run = "shell --confirm \"code ./\""
 desc = "Open the selected files" 
-
