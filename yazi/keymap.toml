@@ -1,3 +1,9 @@
 [[manager.prepend_keymap]]
-on = [ "<C-A-t>" ]
-run = 'kitty ./'
+on = [ "<q>" ]
+run = 'quit'
+
+[[manager.prepend_keymap]]
+on = [ "e" ]         
+run = "shell --confirm \"code ./\""
+desc = "Open the selected files" 
+
