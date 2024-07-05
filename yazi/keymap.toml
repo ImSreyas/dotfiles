@@ -1,6 +1,6 @@
 [manager]
 prepend_keymap = [
-	{ on = [ "e" ], run = "shell --confirm \"code ./\"", desc = "Open the selected files" },
+	{ on = [ "e" ], run = "shell --confirm \"code ./\"", desc = "Open the current dir in vscode" },
 ]
 append_keymap = [
  	{ on = [ "g", "p" ], run = "cd /media/common/Dev/Projects/", desc = "Go to the Project directory" },
