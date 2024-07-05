@@ -9,4 +9,5 @@ append_keymap = [
  	{ on = [ "g", "a" ], run = "cd ~/Anime/", desc = "Go to the Anime directory" },
  	{ on = [ "g", "M" ], run = "cd /media/common/MCA/", desc = "Go to the MCA directory" },
  	{ on = [ "g", "D" ], run = "cd /media/common/Docs/", desc = "Go to the Docs directory" },
+ 	{ on = [ "g", "b" ], run = "cd ~/dotfiles/", desc = "Go to the dotfiles directory" },
 ]
