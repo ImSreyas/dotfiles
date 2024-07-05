@@ -10,6 +10,7 @@ anaconda-live-40.22.3-1.fc40.noarch
 annobin-docs-12.60-1.fc40.noarch
 annobin-plugin-gcc-12.60-1.fc40.x86_64
 ansible-srpm-macros-1-14.fc40.noarch
+apache-netbeans-22-0.noarch
 aylurs-gtk-shell-1.8.2-1.fc40.x86_64
 bat-0.24.0-6.fc40.x86_64
 binutils-2.41-37.fc40.x86_64
@@ -42,6 +43,7 @@ efi-srpm-macros-5-11.fc40.noarch
 egl-gbm-2:1.1.1-4.fc40.x86_64
 egl-wayland-1.1.13-3.fc40.x86_64
 elfutils-libelf-devel-0.191-4.fc40.x86_64
+exif-0.6.22-9.fc40.x86_64
 fakeroot-1.34-1.fc40.x86_64
 fakeroot-libs-1.34-1.fc40.x86_64
 fastfetch-2.16.0-1.fc40.x86_64
@@ -166,6 +168,7 @@ pamixer-1.6-3.fc40.x86_64
 passim-0.1.7-1.fc40.x86_64
 patch-2.7.6-24.fc40.x86_64
 pavucontrol-6.0-2.fc40.x86_64
+perl-Image-ExifTool-12.70-3.fc40.noarch
 perl-NKF-1:2.1.4-32.fc40.x86_64
 perl-srpm-macros-1-53.fc40.noarch
 php-8.3.8-1.fc40.x86_64
