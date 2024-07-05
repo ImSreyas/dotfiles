@@ -1,7 +1,8 @@
 [manager]
 # ratio = [2, 4, 3]
-ratio = [2, 4, 4]
-show_hidden = true
+# ratio = [2, 4, 4]
+ratio = [4, 10, 9]
+show_hidden = false
 scrolloff = 10
 sort_by = "modified"
 sort_reverse = true
