@@ -10,27 +10,29 @@ Important Configuration files 🔥
 ```bash
 /home/sreyas/dotfiles
 ├── dnf
-│   └── packages.txt
+│   └── packages.txt
 ├── i3
-│   └── config
+│   └── config
+├── kitty
+│   └── kitty.conf
 ├── lf
-│   └── lfrc
+│   └── lfrc
 ├── shell
-│   ├── .aliases
-│   ├── .bashrc
-│   ├── config.fish
-│   └── .zshrc
+│   ├── .aliases
+│   ├── .bashrc
+│   ├── config.fish
+│   └── .zshrc
 ├── tmux
-│   └── .tmux.conf
+│   └── .tmux.conf
 ├── vim
-│   └── .vimrc
+│   └── .vimrc
 ├── vscode
-│   ├── extensions.txt
-│   └── settings.json
+│   ├── extensions.txt
+│   └── settings.json
 └── yazi
     ├── keymap.toml
     ├── theme.toml
     └── yazi.toml
 
-9 directories, 14 files
+10 directories, 15 files
 ```
