@@ -1,6 +1,8 @@
 [manager]
 prepend_keymap = [
 	{ on = [ "e" ], run = "shell --confirm \"code ./\"", desc = "Open the current dir in vscode" },
+	{ on = [ "z" ], run = "plugin fzf", desc = "Jump to a directory, or reveal a file using fzf" },
+	{ on = [ "Z" ], run = "plugin zoxide", desc = "Jump to a directory using zoxide" },
 ]
 append_keymap = [
  	{ on = [ "g", "p" ], run = "cd /media/common/Dev/Projects/", desc = "Go to the Project directory" },
