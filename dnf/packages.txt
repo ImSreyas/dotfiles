@@ -58,7 +58,7 @@ fontawesome-fonts-all-1:6.5.2-1.fc40.noarch
 fonts-srpm-macros-1:2.0.5-14.fc40.noarch
 fpc-srpm-macros-1.3-12.fc40.noarch
 ftp-0.17-95.fc40.x86_64
-fzf-0.44.1-3.fc40.x86_64
+fzf-0.53.0-1.fc40.x86_64
 gc-8.2.2-6.fc40.x86_64
 gcc-14.1.1-7.fc40.x86_64
 gcc-plugin-annobin-14.1.1-7.fc40.x86_64
@@ -75,7 +75,7 @@ gnat-srpm-macros-6-5.fc40.noarch
 gnome-software-fedora-langpacks-46.3-1.fc40.x86_64
 gnome-tweaks-46.1-1.fc40.noarch
 go-srpm-macros-3.5.0-1.fc40.noarch
-golang-1.22.4-1.fc40.x86_64
+golang-1.22.5-1.fc40.x86_64
 google-chrome-stable-126.0.6478.126-1.x86_64
 google-noto-emoji-fonts-20231130-1.fc40.noarch
 google-noto-sans-cjk-fonts-1:2.004-7.fc40.noarch
@@ -172,16 +172,16 @@ pavucontrol-6.0-2.fc40.x86_64
 perl-Image-ExifTool-12.70-3.fc40.noarch
 perl-NKF-1:2.1.4-32.fc40.x86_64
 perl-srpm-macros-1-53.fc40.noarch
-php-8.3.8-1.fc40.x86_64
+php-8.3.9-1.fc40.x86_64
 picom-11.2-1.fc40.x86_64
 pkcs11-provider-0.3-2.fc40.x86_64
 polkit-gnome-0.106-0.16.20170423gita0763a2.fc40.x86_64
 postfix-2:3.8.5-4.fc40.x86_64
 pyprland-2.3.8-1.fc40.noarch
-pyproject-srpm-macros-1.12.2-1.fc40.noarch
+pyproject-srpm-macros-1.13.0-1.fc40.noarch
 python-srpm-macros-3.12-8.fc40.noarch
 python3-babel-2.15.0-1.fc40.noarch
-python3-boto3-1.34.135-1.fc40.noarch
+python3-boto3-1.34.138-1.fc40.noarch
 python3-decorator-5.1.1-9.fc40.noarch
 python3-gssapi-1.7.3-8.fc40.x86_64
 python3-koji-1.34.0-3.fc40.noarch
@@ -222,7 +222,7 @@ systemd-rpm-macros-255.8-1.fc40.noarch
 telegram-desktop-5.1.7-1.fc40.x86_64
 thunar-archive-plugin-0.5.2-2.fc40.x86_64
 thunar-volman-4.18.0-4.fc40.x86_64
-tldr-3.2.0-4.fc40.noarch
+tldr-3.3.0-2.fc40.noarch
 toilet-0.3-16.fc40.x86_64
 tree-2.1.0-5.fc40.x86_64
 unar-1.10.8-5.fc40.x86_64
