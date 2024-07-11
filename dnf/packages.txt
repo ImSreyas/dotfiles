@@ -151,7 +151,7 @@ nbdkit-1.38.2-1.fc40.x86_64
 nbdkit-curl-plugin-1.38.2-1.fc40.x86_64
 nbdkit-ssh-plugin-1.38.2-1.fc40.x86_64
 neofetch-7.1.0-12.fc40.noarch
-neovim-0.10.0-5.fc40.x86_64
+neovim-0.10.0-6.fc40.x86_64
 nodejs-1:20.12.2-1.fc40.x86_64
 nodejs-docs-1:20.12.2-1.fc40.noarch
 nodejs-full-i18n-1:20.12.2-1.fc40.x86_64
