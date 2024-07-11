@@ -173,6 +173,7 @@ perl-Image-ExifTool-12.70-3.fc40.noarch
 perl-NKF-1:2.1.4-32.fc40.x86_64
 perl-srpm-macros-1-53.fc40.noarch
 php-8.3.9-1.fc40.x86_64
+phpMyAdmin-5.2.1-4.fc40.noarch
 picom-11.2-1.fc40.x86_64
 pkcs11-provider-0.3-2.fc40.x86_64
 polkit-gnome-0.106-0.16.20170423gita0763a2.fc40.x86_64
