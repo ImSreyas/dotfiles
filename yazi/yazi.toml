@@ -19,7 +19,7 @@ origin = 'center'
 edit = [
 	{ run = 'lvim "$@"', desc = "lvim", block = true, for = "unix" },
 	{ run = 'nvim "$@"', desc = "neovim", block = true, for = "unix" },
-	{ run = '${EDITOR:=vi} "$@"', desc = "vim | vi", block = true, for = "unix" },
+	{ run = '${EDITOR:=vi} "$@"', desc = "vim", block = true, for = "unix" },
 ]
 open = [
 	{ run = 'xdg-open "$1"',                desc = "Open", for = "linux" },
@@ -38,10 +38,18 @@ play = [
 install = [
 	{ run = 'sudo dnf localinstall "$@"', desc = "RPM install", block = true },
 ]
+execute = [
+	{ run = 'bash "$@"; read _', desc = "execute", block = true },
+]
 
 [open]
 rules = [
 	{ name = "*/", use = [ "edit", "open", "reveal" ] },
+
+	{ mime = "text/plain", use = [ "edit", "execute", "reveal" ] },
+	{ mime = "text/x-shellscript", use = [ "edit", "execute", "reveal" ] },
+  #{ mime = "application/x-sh", use = [ "edit", "execute", "reveal" ] },
+  #{ mime = "text/sh", use = [ "edit", "execute", "reveal" ] },
 
 	{ mime = "text/*",          use = [ "edit", "reveal" ] },
 	{ mime = "image/*",         use = [ "open", "reveal" ] },
