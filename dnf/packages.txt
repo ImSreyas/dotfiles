@@ -10,7 +10,6 @@ anaconda-live-40.22.3-1.fc40.noarch
 annobin-docs-12.60-1.fc40.noarch
 annobin-plugin-gcc-12.60-1.fc40.x86_64
 ansible-srpm-macros-1-14.fc40.noarch
-apache-netbeans-22-0.noarch
 aylurs-gtk-shell-1.8.2-1.fc40.x86_64
 bat-0.24.0-6.fc40.x86_64
 binutils-2.41-37.fc40.x86_64
