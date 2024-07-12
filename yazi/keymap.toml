@@ -22,4 +22,5 @@ append_keymap = [
  	{ on = [ "g", "o" ], run = "cd ~/.local/share/Trash/files/", desc = "Go to the trash directory" },
  	{ on = [ "g", "p" ], run = "cd ~/Pictures/", desc = "Go to the Pictures directory" },
  	{ on = [ "g", "C" ], run = "cd /media/common/", desc = "Go to the common drive" },
+ 	{ on = [ "g", "s" ], run = "cd ~/scripts/", desc = "Go to the scripts directory" },
 ]
