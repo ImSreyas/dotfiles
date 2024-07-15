@@ -239,7 +239,7 @@ toilet-0.3-16.fc40.x86_64
 tree-2.1.0-5.fc40.x86_64
 unar-1.10.8-5.fc40.x86_64
 unixODBC-2.3.12-4.fc40.x86_64
-vim-enhanced-2:9.1.452-1.fc40.x86_64
+vim-enhanced-2:9.1.571-1.fc40.x86_64
 vlc-1:3.0.21-1.fc40.x86_64
 vlc-cli-1:3.0.21-1.fc40.x86_64
 vlc-plugin-lua-1:3.0.21-1.fc40.x86_64
