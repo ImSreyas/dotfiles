@@ -41,7 +41,7 @@ docker-ce-3:27.0.3-1.fc40.x86_64
 docker-ce-cli-1:27.0.3-1.fc40.x86_64
 docker-compose-1.29.2-12.fc40.noarch
 docker-compose-plugin-2.28.1-1.fc40.x86_64
-dracut-live-101-1.fc40.x86_64
+dracut-live-102-2.fc40.x86_64
 duf-0.8.1-10.fc40.x86_64
 dunst-1.11.0-1.fc40.x86_64
 dwz-0.15-6.fc40.x86_64
@@ -207,7 +207,7 @@ python3-vlc-3.0.20123-2.fc40.noarch
 qalculate-gtk-4.9.0-3.fc40.x86_64
 qbittorrent-1:4.6.5-1.fc40.x86_64
 qgnomeplatform-qt6-0.9.2-16.fc40.x86_64
-qt5-srpm-macros-5.15.14-1.fc40.noarch
+qt5-srpm-macros-5.15.14-2.fc40.noarch
 qt5ct-1.1-24.fc40.x86_64
 qt6ct-0.9-8.fc40.x86_64
 redhat-rpm-config-286-1.fc40.noarch
