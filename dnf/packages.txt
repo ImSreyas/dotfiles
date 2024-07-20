@@ -91,7 +91,7 @@ gstreamer1-plugin-openh264-1.24.5-1.fc40.x86_64
 gstreamer1-plugins-bad-free-extras-1.24.5-1.fc40.x86_64
 gstreamer1-plugins-good-extras-1.24.5-1.fc40.x86_64
 gtk-murrine-engine-0.98.2-29.fc40.x86_64
-gtk3-devel-3.24.42-2.fc40.x86_64
+gtk3-devel-3.24.43-1.fc40.x86_64
 guile22-2.2.7-11.fc40.x86_64
 htop-3.3.0-3.fc40.x86_64
 http-parser-2.9.4-11.fc40.x86_64
