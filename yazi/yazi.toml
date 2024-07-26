@@ -39,7 +39,7 @@ install = [
 	{ run = 'sudo dnf localinstall "$@"', desc = "RPM install", block = true },
 ]
 execute = [
-	{ run = 'bash "$@"; read _', desc = "execute", block = true },
+	{ run = 'bash "$@"; read -p "Click ENTER to exit..." _', desc = "execute", block = true },
 ]
 
 [open]
