@@ -22,7 +22,7 @@ edit = [
 	{ run = '${EDITOR:=vi} "$@"', desc = "vim", block = true, for = "unix" },
 ]
 open = [
-	{ run = 'xdg-open "$1"',                desc = "Open", for = "linux" },
+	{ run = 'xdg-open "$1"',                desc = "Reveal", for = "linux" },
 ]
 extract = [
 	{ run = 'unar "$1"', desc = "Extract here", for = "unix" },
