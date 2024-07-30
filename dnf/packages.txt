@@ -266,6 +266,7 @@ xorg-x11-drv-nvidia-power-3:555.58.02-1.fc40.x86_64
 xrandr-1.5.2-5.fc40.x86_64
 xwininfo-1.1.5-8.fc40.x86_64
 yad-9.3-8.fc40.x86_64
+zoom-6.1.5.871-1.x86_64
 zoxide-0.9.4-1.fc40.x86_64
 zsh-5.9-14.fc40.x86_64
 zstd-1.5.6-1.fc40.x86_64
