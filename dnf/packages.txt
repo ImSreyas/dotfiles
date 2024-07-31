@@ -83,7 +83,7 @@ gnome-software-fedora-langpacks-46.3-1.fc40.x86_64
 gnome-tweaks-46.1-1.fc40.noarch
 go-srpm-macros-3.5.0-1.fc40.noarch
 golang-1.22.5-1.fc40.x86_64
-google-chrome-stable-127.0.6533.72-1.x86_64
+google-chrome-stable-127.0.6533.88-1.x86_64
 google-noto-emoji-fonts-20231130-1.fc40.noarch
 google-noto-sans-cjk-fonts-1:2.004-7.fc40.noarch
 gparted-1.6.0-1.fc40.x86_64
