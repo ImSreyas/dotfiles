@@ -67,8 +67,8 @@ fpc-srpm-macros-1.3-12.fc40.noarch
 ftp-0.17-95.fc40.x86_64
 fzf-0.54.1-1.fc40.x86_64
 gc-8.2.2-6.fc40.x86_64
-gcc-14.1.1-7.fc40.x86_64
-gcc-plugin-annobin-14.1.1-7.fc40.x86_64
+gcc-14.2.1-1.fc40.x86_64
+gcc-plugin-annobin-14.2.1-1.fc40.x86_64
 gdk-pixbuf2-xlib-2.40.2-9.fc40.x86_64
 ghc-srpm-macros-1.9-1.fc40.noarch
 ghostscript-tools-fonts-10.02.1-12.fc40.noarch
@@ -76,8 +76,8 @@ ghostscript-tools-printing-10.02.1-12.fc40.noarch
 gimp-2:2.10.38-1.fc40.x86_64
 glib-devel-1:1.2.10-73.fc40.x86_64
 glib2-devel-2.80.3-1.fc40.x86_64
-glibc-devel-2.39-17.fc40.x86_64
-glibc-headers-x86-2.39-17.fc40.noarch
+glibc-devel-2.39-22.fc40.x86_64
+glibc-headers-x86-2.39-22.fc40.noarch
 gnat-srpm-macros-6-5.fc40.noarch
 gnome-software-fedora-langpacks-46.3-1.fc40.x86_64
 gnome-tweaks-46.1-1.fc40.noarch
@@ -177,7 +177,7 @@ package-notes-srpm-macros-0.5-11.fc40.noarch
 pamixer-1.6-3.fc40.x86_64
 passim-0.1.7-1.fc40.x86_64
 patch-2.7.6-24.fc40.x86_64
-pavucontrol-6.0-2.fc40.x86_64
+pavucontrol-6.1-1.fc40.x86_64
 perl-Image-ExifTool-12.70-3.fc40.noarch
 perl-NKF-1:2.1.4-32.fc40.x86_64
 perl-srpm-macros-1-53.fc40.noarch
