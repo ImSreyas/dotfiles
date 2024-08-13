@@ -38,4 +38,3 @@ path=~/.aliases
 if [[ -f $path ]]; then
   source $path
 fi 
-
