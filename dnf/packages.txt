@@ -191,7 +191,7 @@ pyprland-2.3.8-1.fc40.noarch
 pyproject-srpm-macros-1.13.0-1.fc40.noarch
 python-srpm-macros-3.12-8.fc40.noarch
 python3-babel-2.15.0-1.fc40.noarch
-python3-boto3-1.34.153-1.fc40.noarch
+python3-boto3-1.34.157-1.fc40.noarch
 python3-decorator-5.1.1-9.fc40.noarch
 python3-gssapi-1.7.3-8.fc40.x86_64
 python3-koji-1.34.0-3.fc40.noarch
