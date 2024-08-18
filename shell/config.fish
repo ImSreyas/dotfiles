@@ -10,7 +10,7 @@ set --export BUN_INSTALL "$HOME/.bun"
 set --export PATH $BUN_INSTALL/bin $PATH
 
 # General path
-export PATH="$PATH:$HOME/scripts/git"
+export PATH="$PATH:$HOME/scripts/bin/"
 
 # Bin path
 export PATH="$PATH:$HOME/.local/bin:$HOME/go/bin"
