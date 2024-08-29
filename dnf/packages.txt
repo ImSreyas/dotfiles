@@ -2,7 +2,7 @@ SwayNotificationCenter-0.10.1-1.fc40.x86_64
 Thunar-4.18.11-1.fc40.x86_64
 VirtualBox-7.0-7.0.18_162988_fedora36-1.x86_64
 aajohan-comfortaa-fonts-3.105-0.4.20210729git2a87ac6.fc40.noarch
-akmod-nvidia-3:555.58.02-1.fc40.x86_64
+akmod-nvidia-3:560.35.03-1.fc40.x86_64
 akmods-0.5.8-8.fc40.noarch
 anaconda-40.22.3-1.fc40.x86_64
 anaconda-install-env-deps-40.22.3-1.fc40.x86_64
@@ -83,7 +83,7 @@ gnome-software-fedora-langpacks-46.4-1.fc40.x86_64
 gnome-tweaks-46.1-1.fc40.noarch
 go-srpm-macros-3.5.0-1.fc40.noarch
 golang-1.22.6-1.fc40.x86_64
-google-chrome-stable-128.0.6613.84-1.x86_64
+google-chrome-stable-128.0.6613.113-1.x86_64
 google-noto-emoji-fonts-20231130-1.fc40.noarch
 google-noto-sans-cjk-fonts-1:2.004-7.fc40.noarch
 gparted-1.6.0-1.fc40.x86_64
@@ -130,7 +130,7 @@ kernel-srpm-macros-1.0-23.fc40.noarch
 kitty-0.35.2-1.fc40.x86_64
 kmod-nvidia-6.10.4-200.fc40.x86_64-3:555.58.02-1.fc40.x86_64
 kmod-nvidia-6.10.5-200.fc40.x86_64-3:555.58.02-1.fc40.x86_64
-kmod-nvidia-6.10.6-200.fc40.x86_64-3:555.58.02-1.fc40.x86_64
+kmod-nvidia-6.10.6-200.fc40.x86_64-3:560.35.03-1.fc40.x86_64
 kmodtool-1.1-10.fc40.noarch
 koji-1.34.0-3.fc40.noarch
 ksh-3:1.0.8-4.fc40.x86_64
@@ -166,7 +166,7 @@ nodejs-docs-1:20.12.2-1.fc40.noarch
 nodejs-full-i18n-1:20.12.2-1.fc40.x86_64
 nodejs-libs-1:20.12.2-1.fc40.x86_64
 nodejs-npm-1:10.5.0-1.20.12.2.1.fc40.x86_64
-nvidia-settings-3:555.58.02-1.fc40.x86_64
+nvidia-settings-3:560.35.03-1.fc40.x86_64
 nvtop-3.1.0-2.fc40.x86_64
 ocaml-srpm-macros-9-3.fc40.noarch
 openblas-srpm-macros-2-16.fc40.noarch
@@ -257,12 +257,12 @@ xclip-0.13-21.git11cba61.fc40.x86_64
 xdpyinfo-1.3.3-5.fc40.x86_64
 xdriinfo-1.0.7-2.fc40.x86_64
 xev-1.2.4-8.fc40.x86_64
-xorg-x11-drv-nvidia-3:555.58.02-1.fc40.x86_64
-xorg-x11-drv-nvidia-cuda-3:555.58.02-1.fc40.x86_64
-xorg-x11-drv-nvidia-cuda-libs-3:555.58.02-1.fc40.x86_64
-xorg-x11-drv-nvidia-kmodsrc-3:555.58.02-1.fc40.x86_64
-xorg-x11-drv-nvidia-libs-3:555.58.02-1.fc40.x86_64
-xorg-x11-drv-nvidia-power-3:555.58.02-1.fc40.x86_64
+xorg-x11-drv-nvidia-3:560.35.03-2.fc40.x86_64
+xorg-x11-drv-nvidia-cuda-3:560.35.03-2.fc40.x86_64
+xorg-x11-drv-nvidia-cuda-libs-3:560.35.03-2.fc40.x86_64
+xorg-x11-drv-nvidia-kmodsrc-3:560.35.03-2.fc40.x86_64
+xorg-x11-drv-nvidia-libs-3:560.35.03-2.fc40.x86_64
+xorg-x11-drv-nvidia-power-3:560.35.03-2.fc40.x86_64
 xrandr-1.5.2-5.fc40.x86_64
 xwininfo-1.1.5-8.fc40.x86_64
 yad-9.3-8.fc40.x86_64
