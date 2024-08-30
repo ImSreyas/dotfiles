@@ -181,6 +181,7 @@ pavucontrol-6.1-1.fc40.x86_64
 perl-Image-ExifTool-12.70-3.fc40.noarch
 perl-NKF-1:2.1.4-32.fc40.x86_64
 perl-srpm-macros-1-53.fc40.noarch
+pgadmin4-fedora-repo-2-1.noarch
 php-8.3.10-1.fc40.x86_64
 phpMyAdmin-5.2.1-4.fc40.noarch
 picom-11.2-1.fc40.x86_64
@@ -228,6 +229,7 @@ snapd-2.63-0.fc40.x86_64
 snapper-0.10.4-4.fc40.x86_64
 speedtest-cli-2.1.3-10.fc40.noarch
 strace-6.10-1.fc40.x86_64
+supabase-1.191.3-1.x86_64
 swappy-1.5.1-4.fc40.x86_64
 swww-0.9.5-1.fc40.x86_64
 sysstat-12.7.5-2.fc40.x86_64
