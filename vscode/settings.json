@@ -57,6 +57,7 @@
   "prisma.showPrismaDataPlatformNotification": false,
   "[java]": {
     "editor.defaultFormatter": "redhat.java"
-  }
+  },
+  "editor.tabSize": 2
   // "window.titleBarStyle": "custom",
 }
