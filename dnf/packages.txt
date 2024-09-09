@@ -37,8 +37,8 @@ ddcutil-2.1.2-1.fc40.x86_64
 debugedit-5.0-14.fc40.x86_64
 dialog-1.3-50.20240101.fc40.x86_64
 docker-buildx-plugin-0.16.2-1.fc40.x86_64
-docker-ce-3:27.2.0-1.fc40.x86_64
-docker-ce-cli-1:27.2.0-1.fc40.x86_64
+docker-ce-3:27.2.1-1.fc40.x86_64
+docker-ce-cli-1:27.2.1-1.fc40.x86_64
 docker-compose-1.29.2-12.fc40.noarch
 docker-compose-plugin-2.29.2-1.fc40.x86_64
 dracut-live-102-2.fc40.x86_64
@@ -48,7 +48,7 @@ dwz-0.15-6.fc40.x86_64
 ed-1.20.2-1.fc40.x86_64
 efi-srpm-macros-5-11.fc40.noarch
 egl-gbm-2:1.1.2-1.fc40.x86_64
-egl-wayland-1.1.16-1.fc40.x86_64
+egl-wayland-1.1.17-2.20240828git2d5ecff.fc40.x86_64
 elfutils-libelf-devel-0.191-4.fc40.x86_64
 erdtree-3.1.2-4.fc40.x86_64
 exif-0.6.22-9.fc40.x86_64
@@ -156,9 +156,9 @@ mariadb-server-3:10.11.8-3.fc40.x86_64
 mongodb-mongosh-2.2.5-1.el8.x86_64
 mongodb-org-server-7.0.9-1.el9.x86_64
 mousepad-0.6.2-1.fc40.x86_64
-nbdkit-1.38.3-1.fc40.x86_64
-nbdkit-curl-plugin-1.38.3-1.fc40.x86_64
-nbdkit-ssh-plugin-1.38.3-1.fc40.x86_64
+nbdkit-1.38.4-1.fc40.x86_64
+nbdkit-curl-plugin-1.38.4-1.fc40.x86_64
+nbdkit-ssh-plugin-1.38.4-1.fc40.x86_64
 neofetch-7.1.0-12.fc40.noarch
 neovim-0.10.1-1.fc40.x86_64
 nodejs-1:20.12.2-1.fc40.x86_64
@@ -202,7 +202,7 @@ python3-pygit2-1.14.0-1.fc40.x86_64
 python3-pyquery-1.4.3-16.fc40.noarch
 python3-pytz-2024.1-1.fc40.noarch
 python3-requests-gssapi-1.2.3-11.fc40.noarch
-python3-rpmautospec-0.7.1-1.fc40.noarch
+python3-rpmautospec-0.7.2-1.fc40.noarch
 python3-utils-3.7.0-3.fc40.noarch
 python3-vlc-3.0.20123-2.fc40.noarch
 qalculate-gtk-4.9.0-3.fc40.x86_64
