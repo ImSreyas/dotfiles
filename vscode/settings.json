@@ -42,7 +42,7 @@
   "[scss]": {
     "editor.defaultFormatter": "vscode.css-language-features"
   },
-  "editor.cursorSurroundingLines": 1000,
+  "editor.cursorSurroundingLines": 12,
   "[php]": {
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
   },
