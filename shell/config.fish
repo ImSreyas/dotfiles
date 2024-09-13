@@ -41,4 +41,3 @@ function ff
 	end
 	rm -f -- "$tmp"
 end
-
