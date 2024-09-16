@@ -46,7 +46,6 @@
   "[php]": {
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
   },
-  "window.zoomLevel": 0,
   "tabnine.experimentalAutoImports": true,
   "liveServer.settings.host": "localhost",
   // "liveServer.settings.host": "",
