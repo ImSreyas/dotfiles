@@ -8,6 +8,7 @@ code-1.93.1-1726079369.el8.x86_64
 dialog-1.3-50.20240101.fc40.x86_64
 dracut-live-102-2.fc40.x86_64
 fastfetch-2.23.0-1.fc40.x86_64
+ffmpeg-6.1.2-2.fc40.x86_64
 fish-3.7.0-2.fc40.x86_64
 glib2-devel-2.80.3-1.fc40.x86_64
 gnome-tweaks-46.1-1.fc40.noarch
@@ -24,6 +25,9 @@ livesys-scripts-0.6.0-3.fc40.noarch
 lsd-1.1.2-3.fc40.x86_64
 openssl-1:3.2.2-3.fc40.x86_64
 qbittorrent-1:4.6.5-1.fc40.x86_64
+rpmfusion-free-release-40-1.noarch
+rpmfusion-nonfree-release-40-1.noarch
 sassc-3.6.2-9.fc40.x86_64
 snapd-2.63-0.fc40.x86_64
 vim-enhanced-2:9.1.719-1.fc40.x86_64
+vlc-1:3.0.21-3.fc40.x86_64
