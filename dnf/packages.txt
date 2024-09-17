@@ -23,11 +23,16 @@ kitty-0.36.1-1.fc40.x86_64
 langpacks-en-4.0-13.fc40.noarch
 livesys-scripts-0.6.0-3.fc40.noarch
 lsd-1.1.2-3.fc40.x86_64
+moby-engine-24.0.5-4.fc40.x86_64
+nodejs-1:20.12.2-1.fc40.x86_64
 openssl-1:3.2.2-3.fc40.x86_64
+perl-Image-ExifTool-12.70-3.fc40.noarch
 qbittorrent-1:4.6.5-1.fc40.x86_64
 rpmfusion-free-release-40-1.noarch
 rpmfusion-nonfree-release-40-1.noarch
 sassc-3.6.2-9.fc40.x86_64
 snapd-2.63-0.fc40.x86_64
+supabase-1.198.1-1.x86_64
 vim-enhanced-2:9.1.719-1.fc40.x86_64
 vlc-1:3.0.21-3.fc40.x86_64
+wps-office-11.1.0.11723.XA-1.x86_64
