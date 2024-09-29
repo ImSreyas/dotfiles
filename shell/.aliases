@@ -10,4 +10,3 @@ alias gnomequitx="gnome-session-quit --logout --no-prompt"
 alias get="sudo dnf install"
 # alias ls="lsd"
 alias speedtest="speedtest-cli"
-
