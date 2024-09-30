@@ -33,7 +33,7 @@ export EDITOR="/bin/vim"
 # mew path
 export PATH="$PATH:$HOME/.mew/bin/"
 
-# Alias
+# Aliases
 path=~/.aliases
 if [[ -f $path ]]; then
   source $path
