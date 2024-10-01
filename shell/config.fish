@@ -27,7 +27,7 @@ if test -f $path
 source $path
 end
 
-# Gemini
+# Gemini env
 set path ~/api/.gemini
 if test -f $path 
 source $path
