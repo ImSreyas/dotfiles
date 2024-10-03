@@ -16,7 +16,7 @@ fish-3.7.0-2.fc40.x86_64
 gedit-2:46.2-1.fc40.x86_64
 glib2-devel-2.80.3-1.fc40.x86_64
 gnome-tweaks-46.1-1.fc40.noarch
-google-chrome-stable-129.0.6668.70-1.x86_64
+google-chrome-stable-129.0.6668.89-1.x86_64
 kernel-6.10.9-200.fc40.x86_64
 kernel-6.10.10-200.fc40.x86_64
 kernel-6.10.11-200.fc40.x86_64
