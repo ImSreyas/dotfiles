@@ -27,7 +27,7 @@ fi
 unset rc
 . "$HOME/.cargo/env"
 
-# Editor
+# Default Editor
 export EDITOR="/bin/vim"
 
 # mew path
