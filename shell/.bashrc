@@ -30,7 +30,7 @@ unset rc
 # Default Editor
 export EDITOR="/bin/vim"
 
-# mew path
+# Mew path
 export PATH="$PATH:$HOME/.mew/bin/"
 
 # Aliases
