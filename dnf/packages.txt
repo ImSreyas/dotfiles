@@ -35,7 +35,7 @@ kernel-modules-core-6.10.12-200.fc40.x86_64
 kernel-modules-extra-6.10.10-200.fc40.x86_64
 kernel-modules-extra-6.10.11-200.fc40.x86_64
 kernel-modules-extra-6.10.12-200.fc40.x86_64
-kitty-0.36.2-1.fc40.x86_64
+kitty-0.36.4-1.fc40.x86_64
 kmod-wl-6.10.10-200.fc40.x86_64-6.30.223.271-53.fc40.x86_64
 langpacks-en-4.0-13.fc40.noarch
 livesys-scripts-0.6.0-3.fc40.noarch
