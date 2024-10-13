@@ -38,3 +38,6 @@ path=~/.aliases
 if [[ -f $path ]]; then
   source $path
 fi 
+
+# Zoxide
+eval "$(zoxide init bash)"
