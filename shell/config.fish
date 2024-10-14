@@ -41,3 +41,6 @@ function ff
 	end
 	rm -f -- "$tmp"
 end
+
+# Zoxide 
+eval "$(zoxide init fish)"
