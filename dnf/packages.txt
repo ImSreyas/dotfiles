@@ -17,7 +17,7 @@ fzf-0.54.3-1.fc40.x86_64
 gedit-2:46.2-1.fc40.x86_64
 glib2-devel-2.80.3-1.fc40.x86_64
 gnome-tweaks-46.1-1.fc40.noarch
-google-chrome-stable-129.0.6668.100-1.x86_64
+google-chrome-stable-130.0.6723.58-1.x86_64
 kernel-6.10.11-200.fc40.x86_64
 kernel-6.10.12-200.fc40.x86_64
 kernel-6.11.3-200.fc40.x86_64
@@ -41,10 +41,10 @@ kmod-wl-6.10.12-200.fc40.x86_64-6.30.223.271-53.fc40.x86_64
 kmod-wl-6.11.3-200.fc40.x86_64-6.30.223.271-53.fc40.x86_64
 langpacks-en-4.0-13.fc40.noarch
 livesys-scripts-0.6.0-3.fc40.noarch
-lsd-1.1.2-3.fc40.x86_64
+lsd-1.1.5-1.fc40.x86_64
 moby-engine-24.0.5-4.fc40.x86_64
 neofetch-7.1.0-12.fc40.noarch
-neovim-0.10.1-1.fc40.x86_64
+neovim-0.10.2-1.fc40.x86_64
 nodejs-1:20.17.0-1.fc40.x86_64
 openssl-1:3.2.2-3.fc40.x86_64
 perl-Image-ExifTool-12.70-3.fc40.noarch
@@ -56,7 +56,7 @@ snapd-2.65.1-0.fc40.x86_64
 speedtest-cli-2.1.3-10.fc40.noarch
 supabase-1.198.1-1.x86_64
 supertuxkart-1.4-9.fc40.x86_64
-vim-enhanced-2:9.1.719-1.fc40.x86_64
+vim-enhanced-2:9.1.785-1.fc40.x86_64
 vlc-1:3.0.21-7.fc40.x86_64
 wps-office-11.1.0.11723.XA-1.x86_64
 zoxide-0.9.4-1.fc40.x86_64
