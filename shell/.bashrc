@@ -41,3 +41,4 @@ fi
 
 # Zoxide
 eval "$(zoxide init bash)"
+
