@@ -6,7 +6,7 @@ prepend_keymap = [
 	{ on  = [ "y" ], run = [ "yank", '''
 		shell --confirm 'echo "$@" | xclip -i -selection clipboard -t text/uri-list'
 	''' ] },
-	{ on = [ "E" ], run = ''' shell --block --confirm 'sudo eject $(findmnt -n -o source "$@")' ''', desc = "Open the current dir in vscode" },
+	{ on = [ "E" ], run = ''' shell --block --confirm 'sudo eject $(findmnt -n -o source "$@")' ''', desc = "Eject the usb drive from mount point" },
 ]
 append_keymap = [
  	{ on = [ "g", "r" ], run = "cd /media/common/Dev/Repos/", desc = "Go to the Repos directory" },
