@@ -19,7 +19,7 @@ abrt-cli-0:2.17.6-2.fc41.x86_64
 abrt-desktop-0:2.17.6-2.fc41.x86_64
 abrt-java-connector-0:1.3.2-6.fc40.x86_64
 acl-0:2.3.2-2.fc41.x86_64
-add-determinism-0:0.3.6-1.fc41.x86_64
+add-determinism-0:0.3.6-3.fc41.x86_64
 adobe-source-code-pro-fonts-0:2.042.1.062.1.026-5.fc41.noarch
 alsa-lib-devel-0:1.2.13-3.fc41.x86_64
 alsa-sof-firmware-0:2024.09.1-1.fc41.noarch
@@ -56,7 +56,7 @@ brcmfmac-firmware-0:20241110-1.fc41.noarch
 brltty-0:6.6-19.fc41.x86_64
 btop-0:1.3.2-2.fc41.x86_64
 btrfs-progs-0:6.11-1.fc41.x86_64
-build-reproducibility-srpm-macros-0:0.3.6-1.fc41.noarch
+build-reproducibility-srpm-macros-0:0.3.6-3.fc41.noarch
 bzip2-0:1.0.8-19.fc41.x86_64
 cfitsio-0:4.5.0-4.fc41.x86_64
 chrony-0:4.6.1-1.fc41.x86_64
@@ -145,7 +145,7 @@ gdm-1:47.0-8.fc41.x86_64
 gdouros-symbola-fonts-0:10.24-16.fc41.noarch
 gedit-2:46.2-5.fc41.x86_64
 gettext-0:0.22.5-6.fc41.x86_64
-ghostscript-0:10.03.1-3.fc41.x86_64
+ghostscript-0:10.03.1-4.fc41.x86_64
 giflib-0:5.2.2-2.fc41.i686
 gimp-2:3.0.0~RC1-2.fc41.x86_64
 git-0:2.47.0-1.fc41.x86_64
@@ -358,10 +358,10 @@ man-pages-0:6.9.1-2.fc41.noarch
 mcelog-3:175-11.fc41.x86_64
 mdadm-0:4.3-4.fc41.x86_64
 mediawriter-0:5.1.90-2.fc41.x86_64
-mesa-dri-drivers-0:24.2.6-1.fc41.i686
-mesa-dri-drivers-0:24.2.6-1.fc41.x86_64
-mesa-libEGL-0:24.2.6-1.fc41.i686
-mesa-libEGL-0:24.2.6-1.fc41.x86_64
+mesa-dri-drivers-0:24.2.7-1.fc41.i686
+mesa-dri-drivers-0:24.2.7-1.fc41.x86_64
+mesa-libEGL-0:24.2.7-1.fc41.i686
+mesa-libEGL-0:24.2.7-1.fc41.x86_64
 microcode_ctl-2:2.1-67.fc41.x86_64
 moby-engine-0:27.3.1-2.fc41.x86_64
 moby-filesystem-0:27.3.1-2.fc41.noarch
@@ -417,8 +417,8 @@ plocate-0:1.1.22-4.fc41.x86_64
 plymouth-0:24.004.60-14.fc41.x86_64
 plymouth-system-theme-0:24.004.60-14.fc41.x86_64
 podman-5:5.2.5-1.fc41.x86_64
-policycoreutils-0:3.7-3.fc41.x86_64
-policycoreutils-python-utils-0:3.7-3.fc41.noarch
+policycoreutils-0:3.7-5.fc41.x86_64
+policycoreutils-python-utils-0:3.7-5.fc41.noarch
 polkit-0:125-1.fc41.1.x86_64
 procps-ng-0:4.0.4-4.fc41.x86_64
 psacct-0:6.6.4-22.fc41.x86_64
@@ -450,7 +450,7 @@ samba-client-2:4.21.1-7.fc41.x86_64
 sane-backends-drivers-scanners-0:1.3.1-1.fc41.x86_64
 sassc-0:3.6.2-10.fc41.x86_64
 sdbus-cpp-0:1.5.0-3.fc41.x86_64
-selinux-policy-targeted-0:41.24-1.fc41.noarch
+selinux-policy-targeted-0:41.25-1.fc41.noarch
 setup-0:2.15.0-5.fc41.noarch
 shadow-utils-2:4.15.1-12.fc41.x86_64
 shim-ia32-0:15.8-3.x86_64
@@ -516,8 +516,8 @@ urw-base35-z003-fonts-0:20200910-23.fc41.noarch
 usb_modeswitch-0:2.6.1-11.fc41.x86_64
 usbutils-0:017-3.fc41.x86_64
 util-linux-0:2.40.2-4.fc41.x86_64
-vim-enhanced-2:9.1.825-1.fc41.x86_64
-vim-minimal-2:9.1.825-1.fc41.x86_64
+vim-enhanced-2:9.1.866-1.fc41.x86_64
+vim-minimal-2:9.1.866-1.fc41.x86_64
 virt-what-0:1.27-1.fc41.x86_64
 virtualbox-guest-additions-0:7.1.4-1.fc41.x86_64
 vlc-1:3.0.21-11.fc41.x86_64
