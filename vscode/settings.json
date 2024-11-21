@@ -34,7 +34,7 @@
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
-  "workbench.colorTheme": "Rosé Pine",
+  "workbench.colorTheme": "Catppuccin Mocha",
   "settingsSync.ignoredExtensions": [],
   "[c]": {
     "editor.defaultFormatter": "ms-vscode.cpptools"
