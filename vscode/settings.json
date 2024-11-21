@@ -57,6 +57,13 @@
   "[java]": {
     "editor.defaultFormatter": "redhat.java"
   },
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "python": false
+  }
   // "window.titleBarStyle": "custom",
 }
