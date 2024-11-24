@@ -483,7 +483,7 @@ systemd-0:256.8-1.fc41.x86_64
 systemd-oomd-defaults-0:256.8-1.fc41.noarch
 systemd-resolved-0:256.8-1.fc41.x86_64
 systemd-udev-0:256.8-1.fc41.x86_64
-systemtap-0:5.2~pre17250223gd07e4284-1.fc41.x86_64
+systemtap-0:5.2-1.fc41.x86_64
 tar-2:1.35-4.fc41.x86_64
 tcpdump-14:4.99.5-1.fc41.x86_64
 teamd-0:1.32-9.fc41.x86_64
