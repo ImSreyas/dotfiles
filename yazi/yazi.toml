@@ -48,8 +48,9 @@ rules = [
 
 	{ mime = "text/plain", use = [ "edit", "execute", "reveal" ] },
 	{ mime = "text/x-shellscript", use = [ "edit", "execute", "reveal" ] },
-  #{ mime = "application/x-sh", use = [ "edit", "execute", "reveal" ] },
-  #{ mime = "text/sh", use = [ "edit", "execute", "reveal" ] },
+	{ mime = "text/x-bash", use = [ "edit", "execute", "reveal" ] },
+	{ mime = "application/x-sh", use = [ "edit", "execute", "reveal" ] },
+	{ mime = "text/sh", use = [ "edit", "execute", "reveal" ] },
 
 	{ mime = "text/*",          use = [ "edit", "reveal" ] },
 	{ mime = "image/*",         use = [ "open", "reveal" ] },

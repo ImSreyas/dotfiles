@@ -116,7 +116,7 @@ epiphany-1:47.2-1.fc41.x86_64
 ethtool-2:6.11-1.fc41.x86_64
 evince-0:46.3.1-2.fc41.x86_64
 evince-djvu-0:46.3.1-2.fc41.x86_64
-exfatprogs-0:1.2.5-1.fc41.x86_64
+exfatprogs-0:1.2.6-1.fc41.x86_64
 f41-backgrounds-base-0:41.0.1-1.fc41.noarch
 f41-backgrounds-gnome-0:41.0.1-1.fc41.noarch
 fastfetch-0:2.29.0-1.fc41.x86_64
@@ -153,9 +153,9 @@ git-0:2.47.0-1.fc41.x86_64
 glib-networking-0:2.80.0-4.fc41.i686
 glib-networking-0:2.80.0-4.fc41.x86_64
 glib2-devel-0:2.82.2-1.fc41.x86_64
-glibc-0:2.40-11.fc41.i686
-glibc-0:2.40-11.fc41.x86_64
-glibc-all-langpacks-0:2.40-11.fc41.x86_64
+glibc-0:2.40-12.fc41.i686
+glibc-0:2.40-12.fc41.x86_64
+glibc-all-langpacks-0:2.40-12.fc41.x86_64
 gnome-app-list-0:1.0-1.fc41.noarch
 gnome-backgrounds-0:47.0-1.fc41.noarch
 gnome-bluetooth-1:47.1-1.fc41.x86_64
@@ -358,7 +358,7 @@ man-db-0:2.12.1-2.fc41.x86_64
 man-pages-0:6.9.1-2.fc41.noarch
 mcelog-3:175-11.fc41.x86_64
 mdadm-0:4.3-4.fc41.x86_64
-mediawriter-0:5.1.90-2.fc41.x86_64
+mediawriter-0:5.2.0-1.fc41.x86_64
 mesa-dri-drivers-0:24.2.7-1.fc41.i686
 mesa-dri-drivers-0:24.2.7-1.fc41.x86_64
 mesa-libEGL-0:24.2.7-1.fc41.i686
@@ -376,7 +376,7 @@ ncurses-0:6.5-2.20240629.fc41.x86_64
 neofetch-0:7.1.0-12.fc40.noarch
 neovim-0:0.10.2-1.fc41.x86_64
 net-tools-0:2.0-0.71.20160912git.fc41.x86_64
-nfs-utils-1:2.8.1-1.rc1.fc41.x86_64
+nfs-utils-1:2.8.1-1.rc2.fc41.x86_64
 nmap-ncat-4:7.92-3.fc41.x86_64
 nodejs-1:22.11.0-1.fc41.x86_64
 nss-mdns-0:0.15.1-12.fc41.i686
@@ -432,7 +432,7 @@ python3-pip-0:24.2-1.fc41.noarch
 python3-tkinter-0:3.13.0-1.fc41.x86_64
 qadwaitadecorations-qt5-0:0.1.5-8.fc41.x86_64
 qbittorrent-1:5.0.1-1.fc41.x86_64
-qemu-guest-agent-2:9.1.1-2.fc41.x86_64
+qemu-guest-agent-2:9.1.2-1.fc41.x86_64
 qpdf-0:11.9.1-2.fc41.x86_64
 qt5-qtbase-0:5.15.15-1.fc41.x86_64
 qt5-qtbase-gui-0:5.15.15-1.fc41.x86_64
