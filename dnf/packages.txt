@@ -149,7 +149,7 @@ gettext-0:0.22.5-6.fc41.x86_64
 ghostscript-0:10.03.1-4.fc41.x86_64
 giflib-0:5.2.2-2.fc41.i686
 gimp-2:3.0.0~RC1-2.fc41.x86_64
-git-0:2.47.0-1.fc41.x86_64
+git-0:2.47.1-1.fc41.x86_64
 glib-networking-0:2.80.0-4.fc41.i686
 glib-networking-0:2.80.0-4.fc41.x86_64
 glib2-devel-0:2.82.2-1.fc41.x86_64
@@ -336,7 +336,7 @@ libreoffice-pyuno-1:24.8.3.2-2.fc41.x86_64
 libreoffice-writer-1:24.8.3.2-2.fc41.x86_64
 librsvg2-0:2.59.1-1.fc41.x86_64
 libsane-hpaio-0:3.24.4-1.fc41.x86_64
-libspelling-0:0.4.4-1.fc41.x86_64
+libspelling-0:0.4.5-1.fc41.x86_64
 libtraceevent-0:1.8.2-4.fc41.x86_64
 libunibreak-0:6.1-2.fc41.x86_64
 libva-intel-media-driver-0:24.3.4-1.fc41.x86_64
