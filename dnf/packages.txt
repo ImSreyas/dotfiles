@@ -131,10 +131,10 @@ ffmpegthumbnailer-0:2.2.3-1.fc41.x86_64
 ffmpegthumbnailer-libs-0:2.2.3-1.fc41.x86_64
 file-0:5.45-7.fc41.x86_64
 filesystem-0:3.18-23.fc41.x86_64
-firefox-0:133.0-1.fc41.x86_64
+firefox-0:133.0-2.fc41.x86_64
 firewalld-0:2.2.3-2.fc41.noarch
 fish-0:3.7.0-4.fc41.x86_64
-flatpak-0:1.15.10-1.fc41.x86_64
+flatpak-0:1.15.12-1.fc41.x86_64
 fontconfig-devel-0:2.15.0-8.fc41.x86_64
 fpaste-0:0.5.0.0-1.fc41.noarch
 fprintd-pam-0:1.94.4-1.fc41.x86_64
@@ -305,7 +305,7 @@ kernel-tools-0:6.11.10-300.fc41.x86_64
 kernel-tools-libs-0:6.11.10-300.fc41.x86_64
 kexec-tools-0:2.0.29-1.fc41.x86_64
 kitty-0:0.37.0-1.fc41.x86_64
-kmod-nvidia-6.11.10-300.fc41.x86_64-3:565.57.01-1.fc41.x86_64
+kmod-nvidia-6.11.10-300.fc41.x86_64-3:565.57.01-2.fc41.x86_64
 kmod-nvidia-6.11.7-300.fc41.x86_64-3:565.57.01-1.fc41.x86_64
 kmod-nvidia-6.11.8-300.fc41.x86_64-3:565.57.01-1.fc41.x86_64
 kmod-wl-6.11.10-300.fc41.x86_64-0:6.30.223.271-53.fc41.x86_64
@@ -359,10 +359,10 @@ man-pages-0:6.9.1-2.fc41.noarch
 mcelog-3:175-11.fc41.x86_64
 mdadm-0:4.3-4.fc41.x86_64
 mediawriter-0:5.2.1-1.fc41.x86_64
-mesa-dri-drivers-0:24.2.7-1.fc41.i686
-mesa-dri-drivers-0:24.2.7-1.fc41.x86_64
-mesa-libEGL-0:24.2.7-1.fc41.i686
-mesa-libEGL-0:24.2.7-1.fc41.x86_64
+mesa-dri-drivers-0:24.2.8-1.fc41.i686
+mesa-dri-drivers-0:24.2.8-1.fc41.x86_64
+mesa-libEGL-0:24.2.8-1.fc41.i686
+mesa-libEGL-0:24.2.8-1.fc41.x86_64
 microcode_ctl-2:2.1-67.fc41.x86_64
 moby-engine-0:27.3.1-2.fc41.x86_64
 moby-filesystem-0:27.3.1-2.fc41.noarch
@@ -519,8 +519,8 @@ urw-base35-z003-fonts-0:20200910-23.fc41.noarch
 usb_modeswitch-0:2.6.1-11.fc41.x86_64
 usbutils-0:017-3.fc41.x86_64
 util-linux-0:2.40.2-4.fc41.x86_64
-vim-enhanced-2:9.1.866-1.fc41.x86_64
-vim-minimal-2:9.1.866-1.fc41.x86_64
+vim-enhanced-2:9.1.895-1.fc41.x86_64
+vim-minimal-2:9.1.895-1.fc41.x86_64
 virt-what-0:1.27-1.fc41.x86_64
 virtualbox-guest-additions-0:7.1.4-1.fc41.x86_64
 vlc-1:3.0.21-11.fc41.x86_64
@@ -545,5 +545,5 @@ xorg-x11-drv-nvidia-power-3:565.57.01-3.fc41.x86_64
 yelp-2:42.2-6.fc41.x86_64
 zip-0:3.0-41.fc41.x86_64
 zix-0:0.4.2-2.fc41.x86_64
-zoxide-0:0.9.4-2.fc41.x86_64
+zoxide-0:0.9.4-3.fc41.x86_64
 zram-generator-defaults-0:1.1.2-12.fc41.noarch
