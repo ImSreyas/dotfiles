@@ -73,7 +73,7 @@ coreutils-0:9.5-11.fc41.x86_64
 cpio-0:2.15-2.fc41.x86_64
 cronie-0:1.7.2-2.fc41.x86_64
 cryptsetup-0:2.7.5-1.fc41.x86_64
-cups-1:2.4.11-3.fc41.x86_64
+cups-1:2.4.11-6.fc41.x86_64
 cups-browsed-1:2.0.1-4.fc41.x86_64
 cups-filters-1:2.0.1-1.fc41.x86_64
 cups-pk-helper-0:0.2.7-8.fc41.x86_64
@@ -182,7 +182,7 @@ gnome-session-xsession-0:47.0.1-1.fc41.x86_64
 gnome-settings-daemon-0:47.1-1.fc41.x86_64
 gnome-shell-0:47.1-1.fc41.x86_64
 gnome-shell-extension-background-logo-0:47.0-1.fc41.noarch
-gnome-software-0:47.1-1.fc41.x86_64
+gnome-software-0:47.2-1.fc41.x86_64
 gnome-system-monitor-0:47.0-1.fc41.x86_64
 gnome-terminal-0:3.54.0-1.fc41.x86_64
 gnome-terminal-nautilus-0:3.54.0-1.fc41.x86_64
@@ -193,7 +193,7 @@ gnome-user-share-0:47.2-1.fc41.x86_64
 gnome-weather-0:47.0-1.fc41.noarch
 gnupg2-0:2.4.5-3.fc41.x86_64
 google-carlito-fonts-0:1.103-0.25.20130920.fc41.noarch
-google-chrome-stable-0:131.0.6778.85-1.x86_64
+google-chrome-stable-0:131.0.6778.108-1.x86_64
 google-crosextra-caladea-fonts-1:1.002-0.19.20130214.fc41.noarch
 google-droid-sans-fonts-0:20200215-21.fc41.noarch
 google-noto-sans-bengali-vf-fonts-0:20240701-2.fc41.noarch
@@ -376,9 +376,9 @@ ncurses-0:6.5-2.20240629.fc41.x86_64
 neofetch-0:7.1.0-12.fc40.noarch
 neovim-0:0.10.2-1.fc41.x86_64
 net-tools-0:2.0-0.71.20160912git.fc41.x86_64
-nfs-utils-1:2.8.1-1.rc2.fc41.x86_64
+nfs-utils-1:2.8.1-2.rc2.fc41.x86_64
 nmap-ncat-4:7.92-3.fc41.x86_64
-nodejs-1:22.11.0-1.fc41.x86_64
+nodejs-1:22.11.0-2.fc41.x86_64
 nss-mdns-0:0.15.1-12.fc41.i686
 nss-mdns-0:0.15.1-12.fc41.x86_64
 ntfs-3g-2:2022.10.3-6.fc41.x86_64
@@ -430,7 +430,7 @@ python3-linux-procfs-0:0.7.3-6.fc41.noarch
 python3-perf-0:6.11.10-300.fc41.x86_64
 python3-pip-0:24.2-1.fc41.noarch
 python3-tkinter-0:3.13.0-1.fc41.x86_64
-qadwaitadecorations-qt5-0:0.1.5-8.fc41.x86_64
+qadwaitadecorations-qt5-0:0.1.6-1.fc41.x86_64
 qbittorrent-1:5.0.2-1.fc41.x86_64
 qemu-guest-agent-2:9.1.2-1.fc41.x86_64
 qpdf-0:11.9.1-2.fc41.x86_64
@@ -479,10 +479,10 @@ supertuxkart-0:1.4-10.fc41.x86_64
 sushi-0:46.0-2.fc41.x86_64
 symlinks-0:1.7-11.fc41.x86_64
 system-config-printer-udev-0:1.5.18-11.fc41.x86_64
-systemd-0:256.8-1.fc41.x86_64
-systemd-oomd-defaults-0:256.8-1.fc41.noarch
-systemd-resolved-0:256.8-1.fc41.x86_64
-systemd-udev-0:256.8-1.fc41.x86_64
+systemd-0:256.9-2.fc41.x86_64
+systemd-oomd-defaults-0:256.9-2.fc41.noarch
+systemd-resolved-0:256.9-2.fc41.x86_64
+systemd-udev-0:256.9-2.fc41.x86_64
 systemtap-0:5.2-1.fc41.x86_64
 tar-2:1.35-4.fc41.x86_64
 tcpdump-14:4.99.5-1.fc41.x86_64
