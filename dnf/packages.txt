@@ -15,8 +15,8 @@ PackageKit-command-not-found-0:1.2.8-8.fc41.x86_64
 PackageKit-gstreamer-plugin-0:1.2.8-8.fc41.x86_64
 PackageKit-gtk3-module-0:1.2.8-8.fc41.x86_64
 aajohan-comfortaa-fonts-0:3.105-0.5.20210729git2a87ac6.fc41.noarch
-abrt-cli-0:2.17.6-2.fc41.x86_64
-abrt-desktop-0:2.17.6-2.fc41.x86_64
+abrt-cli-0:2.17.6-3.fc41.x86_64
+abrt-desktop-0:2.17.6-3.fc41.x86_64
 abrt-java-connector-0:1.3.2-6.fc40.x86_64
 acl-0:2.3.2-2.fc41.x86_64
 add-determinism-0:0.3.6-3.fc41.x86_64
@@ -55,7 +55,7 @@ bluez-cups-0:5.79-1.fc41.x86_64
 brcmfmac-firmware-0:20241110-1.fc41.noarch
 brltty-0:6.6-19.fc41.x86_64
 btop-0:1.3.2-2.fc41.x86_64
-btrfs-progs-0:6.11-1.fc41.x86_64
+btrfs-progs-0:6.12-1.fc41.x86_64
 build-reproducibility-srpm-macros-0:0.3.6-3.fc41.noarch
 bzip2-0:1.0.8-19.fc41.x86_64
 cfitsio-0:4.5.0-4.fc41.x86_64
@@ -73,7 +73,7 @@ coreutils-0:9.5-11.fc41.x86_64
 cpio-0:2.15-2.fc41.x86_64
 cronie-0:1.7.2-2.fc41.x86_64
 cryptsetup-0:2.7.5-1.fc41.x86_64
-cups-1:2.4.11-6.fc41.x86_64
+cups-1:2.4.11-7.fc41.x86_64
 cups-browsed-1:2.0.1-4.fc41.x86_64
 cups-filters-1:2.0.1-1.fc41.x86_64
 cups-pk-helper-0:0.2.7-8.fc41.x86_64
@@ -123,7 +123,7 @@ fastfetch-0:2.29.0-1.fc41.x86_64
 fedora-bookmarks-0:28-31.fc41.noarch
 fedora-chromium-config-0:3.0-5.fc41.noarch
 fedora-flathub-remote-0:1-9.fc41.noarch
-fedora-release-workstation-0:41-28.noarch
+fedora-release-workstation-0:41-29.noarch
 fedora-workstation-backgrounds-0:1.6-6.fc41.noarch
 fedora-workstation-repositories-0:38-6.fc41.x86_64
 ffmpeg-0:7.0.2-4.fc41.x86_64
@@ -234,7 +234,7 @@ grub2-pc-1:2.12-15.fc41.x86_64
 grub2-tools-1:2.12-15.fc41.x86_64
 grub2-tools-efi-1:2.12-15.fc41.x86_64
 grub2-tools-extra-1:2.12-15.fc41.x86_64
-grubby-0:8.40-76.fc41.x86_64
+grubby-0:8.40-78.fc41.x86_64
 gstreamer1-plugin-gtk4-0:0.13.3-1.fc41.x86_64
 gstreamer1-plugin-libav-0:1.24.9-1.fc41.x86_64
 gstreamer1-plugin-openh264-0:1.24.9-1.fc41.x86_64
@@ -265,7 +265,7 @@ ibus-hangul-0:1.5.5-6.fc41.x86_64
 ibus-libpinyin-0:1.15.8-1.fc41.x86_64
 ibus-libzhuyin-0:1.10.3-2.fc41.x86_64
 ibus-m17n-0:1.4.34-1.fc41.x86_64
-ibus-typing-booster-0:2.26.11-1.fc41.noarch
+ibus-typing-booster-0:2.26.12-1.fc41.noarch
 ima-evm-utils-libs-0:1.6.2-2.fc41.x86_64
 imath-0:3.1.12-1.fc41.i686
 inih-cpp-0:58-2.fc41.x86_64
@@ -303,7 +303,7 @@ kernel-modules-extra-0:6.11.7-300.fc41.x86_64
 kernel-modules-extra-0:6.11.8-300.fc41.x86_64
 kernel-tools-0:6.11.10-300.fc41.x86_64
 kernel-tools-libs-0:6.11.10-300.fc41.x86_64
-kexec-tools-0:2.0.29-1.fc41.x86_64
+kexec-tools-0:2.0.30-1.fc41.x86_64
 kitty-0:0.37.0-1.fc41.x86_64
 kmod-nvidia-6.11.10-300.fc41.x86_64-3:565.57.01-2.fc41.x86_64
 kmod-nvidia-6.11.7-300.fc41.x86_64-3:565.57.01-1.fc41.x86_64
@@ -334,7 +334,7 @@ libreoffice-impress-1:24.8.3.2-2.fc41.x86_64
 libreoffice-opensymbol-fonts-1:24.8.3.2-2.fc41.noarch
 libreoffice-pyuno-1:24.8.3.2-2.fc41.x86_64
 libreoffice-writer-1:24.8.3.2-2.fc41.x86_64
-librsvg2-0:2.59.1-1.fc41.x86_64
+librsvg2-0:2.59.2-1.fc41.x86_64
 libsane-hpaio-0:3.24.4-1.fc41.x86_64
 libspelling-0:0.4.5-1.fc41.x86_64
 libtraceevent-0:1.8.2-4.fc41.x86_64
@@ -432,7 +432,7 @@ python3-pip-0:24.2-1.fc41.noarch
 python3-tkinter-0:3.13.0-1.fc41.x86_64
 qadwaitadecorations-qt5-0:0.1.6-1.fc41.x86_64
 qbittorrent-1:5.0.2-1.fc41.x86_64
-qemu-guest-agent-2:9.1.2-1.fc41.x86_64
+qemu-guest-agent-2:9.1.2-2.fc41.x86_64
 qpdf-0:11.9.1-2.fc41.x86_64
 qt5-qtbase-0:5.15.15-1.fc41.x86_64
 qt5-qtbase-gui-0:5.15.15-1.fc41.x86_64
@@ -525,7 +525,7 @@ virt-what-0:1.27-1.fc41.x86_64
 virtualbox-guest-additions-0:7.1.4-1.fc41.x86_64
 vlc-1:3.0.21-11.fc41.x86_64
 wayland-devel-0:1.23.0-2.fc41.x86_64
-wget2-wget-0:2.1.0-12.fc41.x86_64
+wget2-wget-0:2.2.0-1.fc41.x86_64
 which-0:2.21-42.fc41.x86_64
 whois-0:5.5.20-4.fc41.x86_64
 wireplumber-0:0.5.5-2.fc41.x86_64
