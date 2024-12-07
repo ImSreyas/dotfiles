@@ -439,6 +439,7 @@ qt5-qtbase-gui-0:5.15.15-1.fc41.x86_64
 qt5-qtdeclarative-0:5.15.15-1.fc41.x86_64
 qt5-qtxmlpatterns-0:5.15.15-1.fc41.x86_64
 quota-1:4.09-6.fc41.x86_64
+rclone-0:1.67.0-2.fc41.x86_64
 realmd-0:0.17.1-13.fc41.x86_64
 realtek-firmware-0:20241110-1.fc41.noarch
 rhythmbox-0:3.4.8-1.fc41.x86_64
