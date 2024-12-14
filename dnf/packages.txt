@@ -347,7 +347,7 @@ livesys-scripts-0:0.6.4-1.fc41.noarch
 logrotate-0:3.22.0-2.fc41.x86_64
 loupe-0:47.2-1.fc41.x86_64
 lrzsz-0:0.12.20-65.fc41.x86_64
-lsd-0:1.1.5-2.fc41.x86_64
+lsd-0:1.1.5-3.fc41.x86_64
 lsof-0:4.98.0-5.fc41.x86_64
 lua-lgi-compat-0:0.9.2-20.fc41.x86_64
 lvm2-0:2.03.25-4.fc41.x86_64
