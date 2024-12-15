@@ -18,7 +18,7 @@ origin = 'center'
 [opener]
 edit = [
 	#{ run = 'lvim "$@"', desc = "lvim", block = true, for = "unix" },
-	#{ run = 'nvim "$@"', desc = "neovim", block = true, for = "unix" },
+	{ run = 'nvim "$@"', desc = "neovim", block = true, for = "unix" },
 	{ run = '${EDITOR:=vi} "$@"', desc = "vim", block = true, for = "unix" },
 ]
 open = [

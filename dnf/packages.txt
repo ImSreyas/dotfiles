@@ -426,6 +426,7 @@ psacct-0:6.6.4-22.fc41.x86_64
 psmisc-0:23.7-3.fc41.x86_64
 python3-crypt-r-0:3.13.1-3.fc41.x86_64
 python3-dnf-plugins-core-0:4.10.0-1.fc41.noarch
+python3-img2pdf-0:0.5.1-5.fc41.noarch
 python3-linux-procfs-0:0.7.3-6.fc41.noarch
 python3-perf-0:6.11.11-300.fc41.x86_64
 python3-pip-0:24.2-1.fc41.noarch
