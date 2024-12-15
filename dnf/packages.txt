@@ -520,8 +520,8 @@ urw-base35-z003-fonts-0:20200910-23.fc41.noarch
 usb_modeswitch-0:2.6.1-11.fc41.x86_64
 usbutils-0:017-3.fc41.x86_64
 util-linux-0:2.40.2-4.fc41.x86_64
-vim-enhanced-2:9.1.906-1.fc41.x86_64
-vim-minimal-2:9.1.906-1.fc41.x86_64
+vim-enhanced-2:9.1.919-1.fc41.x86_64
+vim-minimal-2:9.1.919-1.fc41.x86_64
 virt-what-0:1.27-1.fc41.x86_64
 virtualbox-guest-additions-0:7.1.4-1.fc41.x86_64
 vlc-1:3.0.21-11.fc41.x86_64
