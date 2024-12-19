@@ -66,7 +66,7 @@ clang-0:19.1.5-1.fc41.x86_64
 clang-resource-filesystem-0:19.1.5-1.fc41.x86_64
 clutter-0:1.26.4-14.fc41.x86_64
 cmake-0:3.30.5-1.fc41.x86_64
-code-0:1.96.0-1733888253.el8.x86_64
+code-0:1.96.1-1734461713.el8.x86_64
 colord-0:1.4.7-5.fc41.x86_64
 compsize-0:1.5-9.fc41.x86_64
 coreutils-0:9.5-11.fc41.x86_64
@@ -179,7 +179,7 @@ gnome-maps-0:47.2-1.fc41.x86_64
 gnome-remote-desktop-0:47.2-1.fc41.x86_64
 gnome-session-wayland-session-0:47.0.1-1.fc41.x86_64
 gnome-session-xsession-0:47.0.1-1.fc41.x86_64
-gnome-settings-daemon-0:47.1-1.fc41.x86_64
+gnome-settings-daemon-0:47.2-2.fc41.x86_64
 gnome-shell-0:47.2-1.fc41.x86_64
 gnome-shell-extension-background-logo-0:47.0-1.fc41.noarch
 gnome-software-0:47.2-2.fc41.x86_64
@@ -193,7 +193,7 @@ gnome-user-share-0:47.2-1.fc41.x86_64
 gnome-weather-0:47.0-1.fc41.noarch
 gnupg2-0:2.4.5-3.fc41.x86_64
 google-carlito-fonts-0:1.103-0.25.20130920.fc41.noarch
-google-chrome-stable-0:131.0.6778.139-1.x86_64
+google-chrome-stable-0:131.0.6778.204-1.x86_64
 google-crosextra-caladea-fonts-1:1.002-0.19.20130214.fc41.noarch
 google-droid-sans-fonts-0:20200215-21.fc41.noarch
 google-noto-sans-bengali-vf-fonts-0:20240701-2.fc41.noarch
@@ -310,6 +310,7 @@ kmod-nvidia-6.11.11-300.fc41.x86_64-3:565.77-1.fc41.x86_64
 kmod-nvidia-6.12.4-200.fc41.x86_64-3:565.77-1.fc41.x86_64
 kmod-wl-6.11.10-300.fc41.x86_64-0:6.30.223.271-53.fc41.x86_64
 kmod-wl-6.11.11-300.fc41.x86_64-0:6.30.223.271-53.fc41.x86_64
+kmod-wl-6.12.4-200.fc41.x86_64-0:6.30.223.271-54.fc41.x86_64
 langpacks-en-0:4.1-2.fc41.noarch
 less-0:661-2.fc41.x86_64
 libappstream-glib-0:0.8.3-2.fc41.x86_64
@@ -365,7 +366,7 @@ mesa-libEGL-0:24.2.8-1.fc41.x86_64
 microcode_ctl-2:2.1-67.fc41.x86_64
 moby-engine-0:27.3.1-2.fc41.x86_64
 moby-filesystem-0:27.3.1-2.fc41.noarch
-mold-0:2.34.1-1.fc41.x86_64
+mold-0:2.35.0-1.fc41.x86_64
 mozjs128-0:128.5.1-2.fc41.x86_64
 mpage-0:2.5.7-20.fc41.x86_64
 mt7xxx-firmware-0:20241210-1.fc41.noarch
@@ -430,7 +431,7 @@ python3-linux-procfs-0:0.7.3-6.fc41.noarch
 python3-perf-0:6.12.4-200.fc41.x86_64
 python3-pip-0:24.2-1.fc41.noarch
 python3-tkinter-0:3.13.0-1.fc41.x86_64
-qadwaitadecorations-qt5-0:0.1.6-2.fc41.x86_64
+qadwaitadecorations-qt5-0:0.1.6-3.fc41.x86_64
 qbittorrent-1:5.0.2-1.fc41.x86_64
 qemu-guest-agent-2:9.1.2-2.fc41.x86_64
 qpdf-0:11.9.1-3.fc41.x86_64
@@ -540,9 +541,9 @@ xdg-desktop-portal-gtk-0:1.15.1-6.fc41.x86_64
 xdg-user-dirs-gtk-0:0.11-5.fc41.x86_64
 xfsprogs-0:6.9.0-1.fc41.x86_64
 xorg-x11-drv-libinput-0:1.4.0-3.fc41.x86_64
-xorg-x11-drv-nvidia-3:565.77-1.fc41.x86_64
-xorg-x11-drv-nvidia-cuda-libs-3:565.77-1.fc41.x86_64
-xorg-x11-drv-nvidia-power-3:565.77-1.fc41.x86_64
+xorg-x11-drv-nvidia-3:565.77-3.fc41.x86_64
+xorg-x11-drv-nvidia-cuda-libs-3:565.77-3.fc41.x86_64
+xorg-x11-drv-nvidia-power-3:565.77-3.fc41.x86_64
 yelp-2:42.2-6.fc41.x86_64
 zip-0:3.0-41.fc41.x86_64
 zix-0:0.4.2-2.fc41.x86_64
