@@ -66,7 +66,7 @@ clang-0:19.1.5-1.fc41.x86_64
 clang-resource-filesystem-0:19.1.5-1.fc41.x86_64
 clutter-0:1.26.4-14.fc41.x86_64
 cmake-0:3.30.5-1.fc41.x86_64
-code-0:1.96.1-1734461713.el8.x86_64
+code-0:1.96.2-1734607808.el8.x86_64
 colord-0:1.4.7-5.fc41.x86_64
 compsize-0:1.5-9.fc41.x86_64
 coreutils-0:9.5-11.fc41.x86_64
