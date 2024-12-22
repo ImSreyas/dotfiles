@@ -133,7 +133,7 @@ file-0:5.45-7.fc41.x86_64
 filesystem-0:3.18-23.fc41.x86_64
 firefox-0:133.0.3-1.fc41.x86_64
 firewalld-0:2.2.3-2.fc41.noarch
-fish-0:3.7.0-4.fc41.x86_64
+fish-0:4.0b1-2.1.x86_64
 flatpak-0:1.15.12-1.fc41.x86_64
 fontconfig-devel-0:2.15.0-8.fc41.x86_64
 fpaste-0:0.5.0.0-1.fc41.noarch
