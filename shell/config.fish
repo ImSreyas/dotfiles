@@ -44,3 +44,4 @@ end
 
 # Zoxide 
 eval "$(zoxide init fish)"
+
