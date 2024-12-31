@@ -68,3 +68,4 @@ rules = [
 
 	{ name = "*", use = [ "open", "reveal" ] },
 ]
+
