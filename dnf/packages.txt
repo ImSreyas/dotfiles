@@ -499,7 +499,7 @@ toolbox-0:0.1.1-1.fc41.x86_64
 totem-1:43.1-1.fc41.x86_64
 traceroute-3:2.1.6-1.fc41.x86_64
 tracker-0:3.7.3-3.fc41.x86_64
-tracker-miners-0:3.7.3-3.fc41.x86_64
+tracker-miners-0:3.7.4-2.fc41.x86_64
 tree-0:2.1.0-6.fc41.x86_64
 tuned-0:2.24.1-1.fc41.noarch
 tuned-ppd-0:2.24.1-1.fc41.noarch
