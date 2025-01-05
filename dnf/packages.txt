@@ -119,7 +119,7 @@ evince-djvu-0:46.3.1-2.fc41.x86_64
 exfatprogs-0:1.2.6-1.fc41.x86_64
 f41-backgrounds-base-0:41.0.1-1.fc41.noarch
 f41-backgrounds-gnome-0:41.0.1-1.fc41.noarch
-fastfetch-0:2.32.1-1.fc41.x86_64
+fastfetch-0:2.33.0-1.fc41.x86_64
 fedora-bookmarks-0:28-31.fc41.noarch
 fedora-chromium-config-0:3.0-5.fc41.noarch
 fedora-flathub-remote-0:1-9.fc41.noarch
@@ -148,7 +148,7 @@ gedit-2:46.2-5.fc41.x86_64
 gettext-0:0.22.5-6.fc41.x86_64
 ghostscript-0:10.03.1-4.fc41.x86_64
 giflib-0:5.2.2-2.fc41.i686
-gimp-2:3.0.0~RC1-2.fc41.x86_64
+gimp-2:3.0.0~RC2-2.fc41.x86_64
 git-0:2.47.1-1.fc41.x86_64
 glib-networking-0:2.80.0-4.fc41.i686
 glib-networking-0:2.80.0-4.fc41.x86_64
@@ -359,10 +359,10 @@ man-pages-0:6.9.1-2.fc41.noarch
 mcelog-3:175-11.fc41.x86_64
 mdadm-0:4.3-4.fc41.x86_64
 mediawriter-0:5.2.1-1.fc41.x86_64
-mesa-dri-drivers-0:24.2.8-1.fc41.i686
-mesa-dri-drivers-0:24.2.8-1.fc41.x86_64
-mesa-libEGL-0:24.2.8-1.fc41.i686
-mesa-libEGL-0:24.2.8-1.fc41.x86_64
+mesa-dri-drivers-0:24.3.2-2.fc41.i686
+mesa-dri-drivers-0:24.3.2-2.fc41.x86_64
+mesa-libEGL-0:24.3.2-2.fc41.i686
+mesa-libEGL-0:24.3.2-2.fc41.x86_64
 microcode_ctl-2:2.1-67.fc41.x86_64
 moby-engine-0:27.3.1-2.fc41.x86_64
 moby-filesystem-0:27.3.1-2.fc41.noarch
@@ -394,7 +394,7 @@ openpace-0:1.1.3-2.fc41.x86_64
 opensc-0:0.26.0-1.fc41.x86_64
 openssh-clients-0:9.8p1-3.fc41.2.x86_64
 openssh-server-0:9.8p1-3.fc41.2.x86_64
-openssl-1:3.2.2-9.fc41.x86_64
+openssl-1:3.2.2-10.fc41.x86_64
 orca-0:47.2-1.fc41.noarch
 pam_afs_session-0:2.6-22.fc41.x86_64
 paps-0:0.8.0-11.fc41.x86_64
@@ -521,8 +521,8 @@ urw-base35-z003-fonts-0:20200910-23.fc41.noarch
 usb_modeswitch-0:2.6.1-11.fc41.x86_64
 usbutils-0:017-3.fc41.x86_64
 util-linux-0:2.40.2-4.fc41.x86_64
-vim-enhanced-2:9.1.919-1.fc41.x86_64
-vim-minimal-2:9.1.919-1.fc41.x86_64
+vim-enhanced-2:9.1.984-1.fc41.x86_64
+vim-minimal-2:9.1.984-1.fc41.x86_64
 virt-what-0:1.27-1.fc41.x86_64
 virtualbox-guest-additions-0:7.1.4-1.fc41.x86_64
 vlc-1:3.0.21-11.fc41.x86_64
