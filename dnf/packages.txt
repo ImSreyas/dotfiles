@@ -99,8 +99,8 @@ dhcp-client-12:4.4.3-14.P1.fc41.x86_64
 dialog-0:1.3-52.20240619.fc41.x86_64
 diffstat-0:1.66-2.fc41.x86_64
 dnf-plugins-core-0:4.10.0-1.fc41.noarch
-dnf5-0:5.2.8.1-2.fc41.x86_64
-dnf5-plugins-0:5.2.8.1-2.fc41.x86_64
+dnf5-0:5.2.8.1-3.fc41.x86_64
+dnf5-plugins-0:5.2.8.1-3.fc41.x86_64
 dnsmasq-0:2.90-4.fc41.x86_64
 docker-buildx-0:0.18.0-1.fc41.x86_64
 docker-cli-0:27.3.1-2.fc41.x86_64
@@ -265,7 +265,7 @@ ibus-hangul-0:1.5.5-6.fc41.x86_64
 ibus-libpinyin-0:1.15.8-1.fc41.x86_64
 ibus-libzhuyin-0:1.10.3-2.fc41.x86_64
 ibus-m17n-0:1.4.34-1.fc41.x86_64
-ibus-typing-booster-0:2.27.3-1.fc41.noarch
+ibus-typing-booster-0:2.27.7-1.fc41.noarch
 ima-evm-utils-libs-0:1.6.2-2.fc41.x86_64
 imath-0:3.1.12-1.fc41.i686
 inih-cpp-0:58-2.fc41.x86_64
@@ -321,8 +321,8 @@ libcamera-0:0.3.2-1.fc41.x86_64
 libcamera-ipa-0:0.3.2-1.fc41.x86_64
 libdeflate-0:1.23-1.fc41.i686
 libdeflate-0:1.23-1.fc41.x86_64
-libdnf5-0:5.2.8.1-2.fc41.x86_64
-libdnf5-cli-0:5.2.8.1-2.fc41.x86_64
+libdnf5-0:5.2.8.1-3.fc41.x86_64
+libdnf5-cli-0:5.2.8.1-3.fc41.x86_64
 liberation-fonts-all-1:2.1.5-12.fc41.noarch
 libertas-firmware-0:20241210-1.fc41.noarch
 libglvnd-gles-1:1.7.0-5.fc41.i686
@@ -374,7 +374,7 @@ mtr-2:0.95-10.fc41.x86_64
 nautilus-0:47.1-1.fc41.x86_64
 ncurses-0:6.5-2.20240629.fc41.x86_64
 neofetch-0:7.1.0-12.fc40.noarch
-neovim-0:0.10.2-1.fc41.x86_64
+neovim-0:0.10.3-2.fc41.x86_64
 net-tools-0:2.0-0.71.20160912git.fc41.x86_64
 nfs-utils-1:2.8.1-4.rc2.fc41.x86_64
 nmap-4:7.92-3.fc41.x86_64
@@ -419,8 +419,8 @@ plocate-0:1.1.22-4.fc41.x86_64
 plymouth-0:24.004.60-14.fc41.x86_64
 plymouth-system-theme-0:24.004.60-14.fc41.x86_64
 podman-5:5.3.1-1.fc41.x86_64
-policycoreutils-0:3.7-5.fc41.x86_64
-policycoreutils-python-utils-0:3.7-5.fc41.noarch
+policycoreutils-0:3.7-6.fc41.x86_64
+policycoreutils-python-utils-0:3.7-6.fc41.noarch
 polkit-0:125-1.fc41.1.x86_64
 procps-ng-0:4.0.4-4.fc41.x86_64
 psacct-0:6.6.4-22.fc41.x86_64
@@ -456,7 +456,7 @@ samba-client-2:4.21.2-1.fc41.x86_64
 sane-backends-drivers-scanners-0:1.3.1-1.fc41.x86_64
 sassc-0:3.6.2-10.fc41.x86_64
 sdbus-cpp-0:1.5.0-3.fc41.x86_64
-selinux-policy-targeted-0:41.27-1.fc41.noarch
+selinux-policy-targeted-0:41.28-1.fc41.noarch
 setup-0:2.15.0-8.fc41.noarch
 shadow-utils-2:4.15.1-12.fc41.x86_64
 shim-ia32-0:15.8-3.x86_64
@@ -482,10 +482,10 @@ supertuxkart-0:1.4-10.fc41.x86_64
 sushi-0:46.0-2.fc41.x86_64
 symlinks-0:1.7-11.fc41.x86_64
 system-config-printer-udev-0:1.5.18-11.fc41.x86_64
-systemd-0:256.10-1.fc41.x86_64
-systemd-oomd-defaults-0:256.10-1.fc41.noarch
-systemd-resolved-0:256.10-1.fc41.x86_64
-systemd-udev-0:256.10-1.fc41.x86_64
+systemd-0:256.11-1.fc41.x86_64
+systemd-oomd-defaults-0:256.11-1.fc41.noarch
+systemd-resolved-0:256.11-1.fc41.x86_64
+systemd-udev-0:256.11-1.fc41.x86_64
 systemtap-0:5.2-1.fc41.x86_64
 tar-2:1.35-4.fc41.x86_64
 tcpdump-14:4.99.5-1.fc41.x86_64
