@@ -432,6 +432,7 @@ python3-linux-procfs-0:0.7.3-6.fc41.noarch
 python3-perf-0:6.12.8-200.fc41.x86_64
 python3-pip-0:24.2-1.fc41.noarch
 python3-tkinter-0:3.13.1-2.fc41.x86_64
+python3.11-0:3.11.11-1.fc41.x86_64
 qadwaitadecorations-qt5-0:0.1.6-3.fc41.x86_64
 qbittorrent-1:5.0.3-1.fc41.x86_64
 qemu-guest-agent-2:9.1.2-2.fc41.x86_64
