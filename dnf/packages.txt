@@ -442,6 +442,7 @@ qt5-qtdeclarative-0:5.15.15-1.fc41.x86_64
 qt5-qtxmlpatterns-0:5.15.15-1.fc41.x86_64
 quota-1:4.09-6.fc41.x86_64
 rclone-0:1.67.0-2.fc41.x86_64
+readline-devel-0:8.2-10.fc41.x86_64
 realmd-0:0.17.1-13.fc41.x86_64
 realtek-firmware-0:20241210-1.fc41.noarch
 rhythmbox-0:3.4.8-1.fc41.x86_64
@@ -496,6 +497,7 @@ thermald-0:2.5.6-3.fc41.x86_64
 time-0:1.9-24.fc41.x86_64
 tini-static-0:0.19.0-9.fc41.x86_64
 tiwilink-firmware-0:20241210-1.fc41.noarch
+tk-devel-1:8.6.14-2.fc41.x86_64
 toolbox-0:0.1.1-1.fc41.x86_64
 totem-1:43.1-1.fc41.x86_64
 traceroute-3:2.1.6-1.fc41.x86_64
