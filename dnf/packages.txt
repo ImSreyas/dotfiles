@@ -454,7 +454,7 @@ rpmfusion-free-release-0:41-1.noarch
 rpmfusion-nonfree-release-0:41-1.noarch
 rsync-0:3.3.0-3.fc41.x86_64
 rygel-0:0.44.1-1.fc41.x86_64
-samba-client-2:4.21.2-1.fc41.x86_64
+samba-client-2:4.21.3-3.fc41.x86_64
 sane-backends-drivers-scanners-0:1.3.1-1.fc41.x86_64
 sassc-0:3.6.2-10.fc41.x86_64
 sdbus-cpp-0:1.5.0-3.fc41.x86_64
@@ -499,6 +499,7 @@ time-0:1.9-24.fc41.x86_64
 tini-static-0:0.19.0-9.fc41.x86_64
 tiwilink-firmware-0:20241210-1.fc41.noarch
 tk-devel-1:8.6.14-2.fc41.x86_64
+tlp-0:1.6.1-1.fc41.noarch
 toolbox-0:0.1.1-1.fc41.x86_64
 totem-1:43.1-1.fc41.x86_64
 traceroute-3:2.1.6-1.fc41.x86_64
@@ -525,8 +526,8 @@ urw-base35-z003-fonts-0:20200910-23.fc41.noarch
 usb_modeswitch-0:2.6.1-11.fc41.x86_64
 usbutils-0:017-3.fc41.x86_64
 util-linux-0:2.40.2-4.fc41.x86_64
-vim-enhanced-2:9.1.984-1.fc41.x86_64
-vim-minimal-2:9.1.984-1.fc41.x86_64
+vim-enhanced-2:9.1.1000-1.fc41.x86_64
+vim-minimal-2:9.1.1000-1.fc41.x86_64
 virt-what-0:1.27-1.fc41.x86_64
 virtualbox-guest-additions-0:7.1.4-1.fc41.x86_64
 vlc-1:3.0.21-11.fc41.x86_64
