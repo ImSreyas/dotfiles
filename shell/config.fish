@@ -16,7 +16,8 @@ export PATH="$PATH:$HOME/scripts/bin/"
 export PATH="$PATH:$HOME/.local/bin:$HOME/go/bin"
 
 # Editor
-export EDITOR="/bin/vim"
+# export EDITOR="/bin/vim"
+export EDITOR="/bin/nvim"
 
 # Mew path
 export PATH="$PATH:$HOME/.mew/bin/"
