@@ -119,7 +119,7 @@ evince-djvu-0:46.3.1-2.fc41.x86_64
 exfatprogs-0:1.2.6-1.fc41.x86_64
 f41-backgrounds-base-0:41.0.1-1.fc41.noarch
 f41-backgrounds-gnome-0:41.0.1-1.fc41.noarch
-fastfetch-0:2.33.0-1.fc41.x86_64
+fastfetch-0:2.34.1-1.fc41.x86_64
 fedora-bookmarks-0:28-31.fc41.noarch
 fedora-chromium-config-0:3.0-5.fc41.noarch
 fedora-flathub-remote-0:1-9.fc41.noarch
@@ -442,7 +442,7 @@ qt5-qtbase-gui-0:5.15.15-3.fc41.x86_64
 qt5-qtdeclarative-0:5.15.15-1.fc41.x86_64
 qt5-qtxmlpatterns-0:5.15.15-1.fc41.x86_64
 quota-1:4.09-6.fc41.x86_64
-rclone-0:1.67.0-2.fc41.x86_64
+rclone-0:1.68.2-1.fc41.x86_64
 readline-devel-0:8.2-10.fc41.x86_64
 realmd-0:0.17.1-13.fc41.x86_64
 realtek-firmware-0:20241210-1.fc41.noarch
@@ -530,7 +530,7 @@ vim-enhanced-2:9.1.1000-1.fc41.x86_64
 vim-minimal-2:9.1.1000-1.fc41.x86_64
 virt-what-0:1.27-1.fc41.x86_64
 virtualbox-guest-additions-0:7.1.4-1.fc41.x86_64
-vlc-1:3.0.21-11.fc41.x86_64
+vlc-1:3.0.21-15.fc41.x86_64
 vulkan-tools-0:1.3.296.0-2.fc41.x86_64
 wayland-devel-0:1.23.0-2.fc41.x86_64
 wget2-wget-0:2.2.0-1.fc41.x86_64
