@@ -59,7 +59,7 @@
   },
   "editor.tabSize": 2,
   "github.copilot.enable": {
-    "*": false,
+    "*": true,
     "plaintext": false,
     "markdown": false,
     "scminput": false,
