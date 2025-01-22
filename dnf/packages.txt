@@ -227,7 +227,7 @@ google-noto-serif-sinhala-vf-fonts-0:20240701-2.fc41.noarch
 google-noto-serif-tamil-vf-fonts-0:20240701-2.fc41.noarch
 google-noto-serif-telugu-vf-fonts-0:20240701-2.fc41.noarch
 google-noto-serif-thai-vf-fonts-0:20240701-2.fc41.noarch
-gparted-0:1.6.0-2.fc41.x86_64
+gparted-0:1.6.0-5.fc41.x86_64
 graphviz-libs-0:12.1.0-1.fc41.x86_64
 grub2-efi-ia32-1:2.12-15.fc41.x86_64
 grub2-efi-ia32-cdboot-1:2.12-15.fc41.x86_64
