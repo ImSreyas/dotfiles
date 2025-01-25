@@ -71,6 +71,7 @@ code-0:1.96.4-1736991167.el8.x86_64
 colord-0:1.4.7-5.fc41.x86_64
 compsize-0:1.5-9.fc41.x86_64
 coreutils-0:9.5-11.fc41.x86_64
+cowsay-0:3.8.4-1.fc41.noarch
 cpio-0:2.15-2.fc41.x86_64
 cronie-0:1.7.2-2.fc41.x86_64
 cryptsetup-0:2.7.5-1.fc41.x86_64
@@ -421,7 +422,7 @@ pipewire-utils-0:1.2.7-1.fc41.x86_64
 plocate-0:1.1.22-4.fc41.x86_64
 plymouth-0:24.004.60-14.fc41.x86_64
 plymouth-system-theme-0:24.004.60-14.fc41.x86_64
-podman-5:5.3.1-1.fc41.x86_64
+podman-5:5.3.2-1.fc41.x86_64
 policycoreutils-0:3.7-6.fc41.x86_64
 policycoreutils-python-utils-0:3.7-6.fc41.noarch
 polkit-0:125-1.fc41.1.x86_64
