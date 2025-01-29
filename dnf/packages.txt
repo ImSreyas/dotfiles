@@ -197,7 +197,7 @@ gnome-user-share-0:47.2-1.fc41.x86_64
 gnome-weather-0:47.0-1.fc41.noarch
 gnupg2-0:2.4.5-3.fc41.x86_64
 google-carlito-fonts-0:1.103-0.25.20130920.fc41.noarch
-google-chrome-stable-0:132.0.6834.110-1.x86_64
+google-chrome-stable-0:132.0.6834.159-1.x86_64
 google-crosextra-caladea-fonts-1:1.002-0.19.20130214.fc41.noarch
 google-droid-sans-fonts-0:20200215-21.fc41.noarch
 google-noto-sans-bengali-vf-fonts-0:20240701-2.fc41.noarch
@@ -316,7 +316,7 @@ kmod-wl-6.12.10-200.fc41.x86_64-0:6.30.223.271-54.fc41.x86_64
 kmod-wl-6.12.8-200.fc41.x86_64-0:6.30.223.271-54.fc41.x86_64
 kmod-wl-6.12.9-200.fc41.x86_64-0:6.30.223.271-54.fc41.x86_64
 langpacks-en-0:4.1-2.fc41.noarch
-less-0:661-2.fc41.x86_64
+less-0:668-1.fc41.x86_64
 libappstream-glib-0:0.8.3-2.fc41.x86_64
 libaribcaption-0:1.1.1-1.fc41.x86_64
 libblockdev-smart-0:3.2.1-1.fc41.x86_64
@@ -397,8 +397,8 @@ openexr-libs-0:3.2.4-3.fc41.i686
 openjpeg-0:2.5.3-6.fc41.x86_64
 openpace-0:1.1.3-2.fc41.x86_64
 opensc-0:0.26.1-1.fc41.x86_64
-openssh-clients-0:9.9p1-1.fc41.x86_64
-openssh-server-0:9.9p1-1.fc41.x86_64
+openssh-clients-0:9.9p1-2.fc41.x86_64
+openssh-server-0:9.9p1-2.fc41.x86_64
 openssl-1:3.2.2-11.fc41.x86_64
 orca-0:47.3-1.fc41.noarch
 pam_afs_session-0:2.6-22.fc41.x86_64
