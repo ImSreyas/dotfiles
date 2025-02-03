@@ -269,7 +269,7 @@ ibus-hangul-0:1.5.5-6.fc41.x86_64
 ibus-libpinyin-0:1.15.8-1.fc41.x86_64
 ibus-libzhuyin-0:1.10.3-2.fc41.x86_64
 ibus-m17n-0:1.4.35-1.fc41.x86_64
-ibus-typing-booster-0:2.27.13-1.fc41.noarch
+ibus-typing-booster-0:2.27.15-1.fc41.noarch
 ima-evm-utils-libs-0:1.6.2-2.fc41.x86_64
 imath-0:3.1.12-1.fc41.i686
 inih-cpp-0:58-2.fc41.x86_64
@@ -463,7 +463,7 @@ samba-client-2:4.21.3-5.fc41.x86_64
 sane-backends-drivers-scanners-0:1.3.1-1.fc41.x86_64
 sassc-0:3.6.2-10.fc41.x86_64
 sdbus-cpp-0:1.5.0-3.fc41.x86_64
-selinux-policy-targeted-0:41.28-1.fc41.noarch
+selinux-policy-targeted-0:41.31-1.fc41.noarch
 setup-0:2.15.0-8.fc41.noarch
 shadow-utils-2:4.15.1-12.fc41.x86_64
 shim-ia32-0:15.8-3.x86_64
@@ -513,8 +513,8 @@ traceroute-3:2.1.6-1.fc41.x86_64
 tracker-0:3.7.3-3.fc41.x86_64
 tracker-miners-0:3.7.4-2.fc41.x86_64
 tree-0:2.1.0-6.fc41.x86_64
-tuned-0:2.25.0-0.1.rc1.fc41.noarch
-tuned-ppd-0:2.25.0-0.1.rc1.fc41.noarch
+tuned-0:2.25.0-1.fc41.noarch
+tuned-ppd-0:2.25.0-1.fc41.noarch
 unar-0:1.10.8-7.fc41.x86_64
 unoconv-0:0.9.0-15.fc41.noarch
 unzip-0:6.0-64.fc41.x86_64
