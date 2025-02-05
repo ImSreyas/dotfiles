@@ -172,7 +172,7 @@ gnome-classic-session-0:47.3-2.fc41.noarch
 gnome-classic-session-xsession-0:47.3-2.fc41.noarch
 gnome-clocks-0:47.0-1.fc41.x86_64
 gnome-color-manager-0:3.36.0-13.fc41.x86_64
-gnome-connections-0:47.0-2.fc41.x86_64
+gnome-connections-0:47.2.1-1.fc41.x86_64
 gnome-contacts-0:47.1.1-1.fc41.x86_64
 gnome-control-center-0:47.3-1.fc41.x86_64
 gnome-disk-utility-0:46.1-1.fc41.x86_64
@@ -197,7 +197,7 @@ gnome-user-share-0:47.2-1.fc41.x86_64
 gnome-weather-0:47.0-1.fc41.noarch
 gnupg2-0:2.4.5-3.fc41.x86_64
 google-carlito-fonts-0:1.103-0.25.20130920.fc41.noarch
-google-chrome-stable-0:132.0.6834.159-1.x86_64
+google-chrome-stable-0:133.0.6943.53-1.x86_64
 google-crosextra-caladea-fonts-1:1.002-0.19.20130214.fc41.noarch
 google-droid-sans-fonts-0:20200215-21.fc41.noarch
 google-noto-sans-bengali-vf-fonts-0:20240701-2.fc41.noarch
