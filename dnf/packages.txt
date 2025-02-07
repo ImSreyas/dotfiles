@@ -67,7 +67,7 @@ clang-0:19.1.7-1.fc41.x86_64
 clang-resource-filesystem-0:19.1.7-1.fc41.x86_64
 clutter-0:1.26.4-14.fc41.x86_64
 cmake-0:3.30.7-1.fc41.x86_64
-code-0:1.96.4-1736991167.el8.x86_64
+code-0:1.97.0-1738713467.el8.x86_64
 colord-0:1.4.7-5.fc41.x86_64
 compsize-0:1.5-9.fc41.x86_64
 coreutils-0:9.5-11.fc41.x86_64
@@ -378,7 +378,7 @@ mtr-2:0.95-10.fc41.x86_64
 nautilus-0:47.1-1.fc41.x86_64
 ncurses-0:6.5-2.20240629.fc41.x86_64
 neofetch-0:7.1.0-12.fc40.noarch
-neovim-0:0.10.3-2.fc41.x86_64
+neovim-0:0.10.4-1.fc41.x86_64
 net-tools-0:2.0-0.71.20160912git.fc41.x86_64
 nfs-utils-1:2.8.1-5.rc2.fc41.x86_64
 nmap-4:7.92-3.fc41.x86_64
