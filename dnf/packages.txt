@@ -46,12 +46,12 @@ baobab-0:47.0-1.fc41.x86_64
 basesystem-0:11-21.fc41.noarch
 bash-0:5.2.32-1.fc41.x86_64
 bash-color-prompt-0:0.5-2.fc41.noarch
-bash-completion-1:2.13-2.fc41.noarch
+bash-completion-1:2.16-1.fc41.noarch
 bashmount-0:4.3.2-10.fc41.noarch
 bastet-0:0.43.2-10.fc41.x86_64
 bat-0:0.24.0-11.fc41.x86_64
 bc-0:1.07.1-22.fc41.x86_64
-bind-utils-32:9.18.30-1.fc41.x86_64
+bind-utils-32:9.18.33-1.fc41.x86_64
 bluez-cups-0:5.79-1.fc41.x86_64
 brcmfmac-firmware-0:20241210-1.fc41.noarch
 brltty-0:6.6-22.fc41.x86_64
@@ -67,7 +67,7 @@ clang-0:19.1.7-2.fc41.x86_64
 clang-resource-filesystem-0:19.1.7-2.fc41.x86_64
 clutter-0:1.26.4-14.fc41.x86_64
 cmake-0:3.30.7-1.fc41.x86_64
-code-0:1.97.0-1738713467.el8.x86_64
+code-0:1.97.1-1739197558.el8.x86_64
 colord-0:1.4.7-5.fc41.x86_64
 compsize-0:1.5-9.fc41.x86_64
 coreutils-0:9.5-11.fc41.x86_64
@@ -152,7 +152,7 @@ gedit-2:46.2-5.fc41.x86_64
 gettext-0:0.22.5-6.fc41.x86_64
 ghostscript-0:10.03.1-4.fc41.x86_64
 giflib-0:5.2.2-2.fc41.i686
-gimp-2:3.0.0~RC2-2.fc41.x86_64
+gimp-2:3.0.0~RC3-1.fc41.x86_64
 git-0:2.48.1-1.fc41.x86_64
 glib-networking-0:2.80.0-4.fc41.i686
 glib-networking-0:2.80.0-4.fc41.x86_64
@@ -197,7 +197,7 @@ gnome-user-share-0:47.2-1.fc41.x86_64
 gnome-weather-0:47.0-1.fc41.noarch
 gnupg2-0:2.4.5-3.fc41.x86_64
 google-carlito-fonts-0:1.103-0.25.20130920.fc41.noarch
-google-chrome-stable-0:133.0.6943.53-1.x86_64
+google-chrome-stable-0:133.0.6943.98-1.x86_64
 google-crosextra-caladea-fonts-1:1.002-0.19.20130214.fc41.noarch
 google-droid-sans-fonts-0:20200215-21.fc41.noarch
 google-noto-sans-bengali-vf-fonts-0:20240701-2.fc41.noarch
@@ -269,7 +269,7 @@ ibus-hangul-0:1.5.5-6.fc41.x86_64
 ibus-libpinyin-0:1.15.8-1.fc41.x86_64
 ibus-libzhuyin-0:1.10.3-2.fc41.x86_64
 ibus-m17n-0:1.4.35-1.fc41.x86_64
-ibus-typing-booster-0:2.27.23-1.fc41.noarch
+ibus-typing-booster-0:2.27.24-1.fc41.noarch
 iftop-0:1.0-0.34.pre4.fc41.x86_64
 ima-evm-utils-libs-0:1.6.2-2.fc41.x86_64
 imath-0:3.1.12-1.fc41.i686
