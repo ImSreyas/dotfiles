@@ -39,6 +39,8 @@ atheros-firmware-0:20241210-1.fc41.noarch
 attr-0:2.5.2-4.fc41.x86_64
 audit-0:4.0.3-1.fc41.x86_64
 authselect-0:1.5.0-8.fc41.x86_64
+autoconf-0:2.72-4.fc41.noarch
+automake-0:1.16.5-17.fc41.noarch
 avahi-0:0.8-29.fc41.x86_64
 b43-fwcutter-0:019-37.fc41.x86_64
 b43-openfwwf-0:5.2-44.fc41.noarch
@@ -53,6 +55,7 @@ bat-0:0.24.0-11.fc41.x86_64
 bc-0:1.07.1-22.fc41.x86_64
 bind-utils-32:9.18.33-1.fc41.x86_64
 bluez-cups-0:5.79-1.fc41.x86_64
+boxes-0:2.3.0-4.fc41.x86_64
 brcmfmac-firmware-0:20241210-1.fc41.noarch
 brltty-0:6.6-22.fc41.x86_64
 btop-0:1.4.0-1.fc41.x86_64
