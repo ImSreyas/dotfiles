@@ -130,7 +130,7 @@ fastfetch-0:2.36.1-1.fc41.x86_64
 fedora-bookmarks-0:28-31.fc41.noarch
 fedora-chromium-config-0:3.0-5.fc41.noarch
 fedora-flathub-remote-0:1-9.fc41.noarch
-fedora-release-workstation-0:41-29.noarch
+fedora-release-workstation-0:41-31.noarch
 fedora-workstation-backgrounds-0:1.6-6.fc41.noarch
 fedora-workstation-repositories-0:38-6.fc41.x86_64
 ffmpeg-0:7.1-1.fc41.x86_64
@@ -445,7 +445,7 @@ python3-pip-0:24.2-1.fc41.noarch
 python3-tkinter-0:3.13.2-1.fc41.x86_64
 python3.11-0:3.11.11-5.fc41.x86_64
 qadwaitadecorations-qt5-0:0.1.6-7.fc41.x86_64
-qbittorrent-1:5.0.3-1.fc41.x86_64
+qbittorrent-1:5.0.4-1.fc41.x86_64
 qemu-guest-agent-2:9.1.2-3.fc41.x86_64
 qpdf-0:11.9.1-3.fc41.x86_64
 qt5-qtbase-0:5.15.15-3.fc41.x86_64
