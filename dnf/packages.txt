@@ -66,8 +66,8 @@ cfitsio-0:4.5.0-4.fc41.x86_64
 chrony-0:4.6.1-1.fc41.x86_64
 cifs-utils-0:7.1-2.fc41.x86_64
 cirrus-audio-firmware-0:20241210-1.fc41.noarch
-clang-0:19.1.7-2.fc41.x86_64
-clang-resource-filesystem-0:19.1.7-2.fc41.x86_64
+clang-0:19.1.7-3.fc41.x86_64
+clang-resource-filesystem-0:19.1.7-3.fc41.x86_64
 clutter-0:1.26.4-14.fc41.x86_64
 cmake-0:3.30.8-1.fc41.x86_64
 code-0:1.98.0-1741124844.el8.x86_64
@@ -496,10 +496,10 @@ supertuxkart-0:1.4-12.fc41.x86_64
 sushi-0:46.0-2.fc41.x86_64
 symlinks-0:1.7-11.fc41.x86_64
 system-config-printer-udev-0:1.5.18-11.fc41.x86_64
-systemd-0:256.11-1.fc41.x86_64
-systemd-oomd-defaults-0:256.11-1.fc41.noarch
-systemd-resolved-0:256.11-1.fc41.x86_64
-systemd-udev-0:256.11-1.fc41.x86_64
+systemd-0:256.12-1.fc41.x86_64
+systemd-oomd-defaults-0:256.12-1.fc41.noarch
+systemd-resolved-0:256.12-1.fc41.x86_64
+systemd-udev-0:256.12-1.fc41.x86_64
 systemtap-0:5.2-1.fc41.x86_64
 tar-2:1.35-4.fc41.x86_64
 tcpdump-14:4.99.5-1.fc41.x86_64
