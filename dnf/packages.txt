@@ -70,7 +70,7 @@ clang-0:19.1.7-3.fc41.x86_64
 clang-resource-filesystem-0:19.1.7-3.fc41.x86_64
 clutter-0:1.26.4-14.fc41.x86_64
 cmake-0:3.30.8-1.fc41.x86_64
-code-0:1.98.1-1741624570.el8.x86_64
+code-0:1.98.2-1741788968.el8.x86_64
 colord-0:1.4.7-5.fc41.x86_64
 compsize-0:1.5-9.fc41.x86_64
 coreutils-0:9.5-11.fc41.x86_64
@@ -109,6 +109,7 @@ dnf5-plugins-0:5.2.10.0-2.fc41.x86_64
 dnsmasq-0:2.90-4.fc41.x86_64
 docker-buildx-0:0.18.0-1.fc41.x86_64
 docker-cli-0:27.3.1-2.fc41.x86_64
+docker-compose-0:2.30.3-1.fc41.x86_64
 dos2unix-0:7.5.2-2.fc41.x86_64
 dosfstools-0:4.2-13.fc41.x86_64
 doxygen-2:1.12.0-2.fc41.x86_64
@@ -133,7 +134,7 @@ fedora-flathub-remote-0:1-9.fc41.noarch
 fedora-release-workstation-0:41-31.noarch
 fedora-workstation-backgrounds-0:1.6-6.fc41.noarch
 fedora-workstation-repositories-0:38-6.fc41.x86_64
-ffmpeg-0:7.1-1.fc41.x86_64
+ffmpeg-0:7.1.1-1.fc41.x86_64
 ffmpegthumbnailer-0:2.2.3-1.fc41.x86_64
 ffmpegthumbnailer-libs-0:2.2.3-1.fc41.x86_64
 file-0:5.45-7.fc41.x86_64
@@ -200,7 +201,7 @@ gnome-user-share-0:47.2-1.fc41.x86_64
 gnome-weather-0:47.0-1.fc41.noarch
 gnupg2-0:2.4.5-3.fc41.x86_64
 google-carlito-fonts-0:1.103-0.25.20130920.fc41.noarch
-google-chrome-stable-0:134.0.6998.35-1.x86_64
+google-chrome-stable-0:134.0.6998.88-1.x86_64
 google-crosextra-caladea-fonts-1:1.002-0.19.20130214.fc41.noarch
 google-droid-sans-fonts-0:20200215-21.fc41.noarch
 google-noto-sans-bengali-vf-fonts-0:20240701-2.fc41.noarch
@@ -315,7 +316,7 @@ kexec-tools-0:2.0.30-1.fc41.x86_64
 kitty-0:0.39.1-1.fc41.x86_64
 kmod-nvidia-6.13.4-200.fc41.x86_64-3:570.86.16-3.fc41.x86_64
 kmod-nvidia-6.13.5-200.fc41.x86_64-3:570.86.16-3.fc41.x86_64
-kmod-nvidia-6.13.6-200.fc41.x86_64-3:570.86.16-3.fc41.x86_64
+kmod-nvidia-6.13.6-200.fc41.x86_64-3:570.124.04-1.fc41.x86_64
 kmod-wl-6.13.4-200.fc41.x86_64-0:6.30.223.271-56.fc41.x86_64
 kmod-wl-6.13.5-200.fc41.x86_64-0:6.30.223.271-56.fc41.x86_64
 kmod-wl-6.13.6-200.fc41.x86_64-0:6.30.223.271-56.fc41.x86_64
@@ -491,7 +492,7 @@ sssd-kcm-0:2.10.2-1.fc41.x86_64
 sssd-krb5-common-0:2.10.2-1.fc41.x86_64
 subversion-0:1.14.5-1.fc41.x86_64
 sudo-0:1.9.15-5.p5.fc41.x86_64
-supabase-0:2.15.0-1.x86_64
+supabase-0:2.19.7-1.x86_64
 supertuxkart-0:1.4-12.fc41.x86_64
 sushi-0:46.0-2.fc41.x86_64
 symlinks-0:1.7-11.fc41.x86_64
@@ -560,10 +561,10 @@ xdg-desktop-portal-gtk-0:1.15.1-6.fc41.x86_64
 xdg-user-dirs-gtk-0:0.11-5.fc41.x86_64
 xfsprogs-0:6.9.0-1.fc41.x86_64
 xorg-x11-drv-libinput-0:1.4.0-3.fc41.x86_64
-xorg-x11-drv-nvidia-3:570.86.16-5.fc41.x86_64
-xorg-x11-drv-nvidia-cuda-3:570.86.16-5.fc41.x86_64
-xorg-x11-drv-nvidia-cuda-libs-3:570.86.16-5.fc41.x86_64
-xorg-x11-drv-nvidia-power-3:570.86.16-5.fc41.x86_64
+xorg-x11-drv-nvidia-3:570.124.04-1.fc41.x86_64
+xorg-x11-drv-nvidia-cuda-3:570.124.04-1.fc41.x86_64
+xorg-x11-drv-nvidia-cuda-libs-3:570.124.04-1.fc41.x86_64
+xorg-x11-drv-nvidia-power-3:570.124.04-1.fc41.x86_64
 yelp-2:42.2-6.fc41.x86_64
 zip-0:3.0-41.fc41.x86_64
 zix-0:0.6.2-1.fc41.x86_64
