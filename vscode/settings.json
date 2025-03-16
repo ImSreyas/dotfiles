@@ -10,7 +10,6 @@
   "kotlin.languageServer.enabled": false,
   "kotlin.debugAdapter.enabled": false,
   "explorer.confirmDragAndDrop": false,
-  "files.autoSave": "afterDelay",
   "materialTheme.accent": "Purple",
   "editor.fontFamily": "Cascadia Code",
   "editor.fontLigatures": true,
@@ -64,6 +63,7 @@
     "markdown": false,
     "scminput": false,
     "python": true
-  }
+  },
+  "files.autoSave": "afterDelay"
   // "window.titleBarStyle": "custom",
 }
