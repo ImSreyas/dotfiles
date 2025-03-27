@@ -30,6 +30,7 @@
   "git.confirmSync": false,
   "git.ignoreRebaseWarning": true,
   "editor.lineNumbers": "relative",
+  "rust-analyzer.checkOnSave.command": "clippy",
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
@@ -48,7 +49,7 @@
   "tabnine.experimentalAutoImports": true,
   "liveServer.settings.host": "localhost",
   // "liveServer.settings.host": "",
-  "liveServer.settings.root": "",
+  "liveServer.settings.root": "/",
   "tailwind-fold.autoFold": true,
   "hediet.vscode-drawio.resizeImages": null,
   "typescript.updateImportsOnFileMove.enabled": "always",
@@ -64,6 +65,11 @@
     "scminput": false,
     "python": true
   },
-  "files.autoSave": "afterDelay"
+  "files.autoSave": "afterDelay",
+  "rust-analyzer.imports.granularity.enforce": true,
+  "rust-analyzer.imports.granularity.group": "module",
+  "rust-analyzer.diagnostics.experimental.enable": true,
+  "rust-analyzer.rustfmt.rangeFormatting.enable": true,
+    "rust-analyzer.linkedProjects": ["server/rust/Cargo.toml"]
   // "window.titleBarStyle": "custom",
 }
