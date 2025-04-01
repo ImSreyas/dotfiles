@@ -42,10 +42,13 @@ execute = [
 	{ run = 'bash "$@"; read -p "Click ENTER to exit..." _', desc = "execute", block = true },
 ]
 
+libreoffice = [
+	{ run = 'libreoffice "$@"', desc = "Open in Libre Office", block = false },
+]
+
 [open]
 rules = [
 	{ name = "*/", use = [ "edit", "open", "reveal" ] },
-
 	{ mime = "text/plain", use = [ "edit", "execute", "reveal" ] },
 	{ mime = "text/x-shellscript", use = [ "edit", "execute", "reveal" ] },
 	{ mime = "text/x-bash", use = [ "edit", "execute", "reveal" ] },
@@ -58,6 +61,8 @@ rules = [
 	{ mime = "inode/x-empty",   use = [ "edit", "reveal" ] },
 
 	{ mime = "application/x-rpm", use = [ "install", "reveal", "open" ] },
+	{ mime = "application/msword", use = ["open", "libreoffice", "reveal"] },
+	{ mime = "application/openxmlformats-officedocument.wordprocessingml.document", use = ["open", "libreoffice", "reveal"] },
 
 	{ mime = "application/{,g}zip", use = [ "extract", "reveal" ] },
 	{ mime = "application/zip", use = [ "extract", "reveal" ] },

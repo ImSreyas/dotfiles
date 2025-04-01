@@ -70,6 +70,6 @@
   "rust-analyzer.imports.granularity.group": "module",
   "rust-analyzer.diagnostics.experimental.enable": true,
   "rust-analyzer.rustfmt.rangeFormatting.enable": true,
-    "rust-analyzer.linkedProjects": ["server/rust/Cargo.toml"]
+  "rust-analyzer.linkedProjects": ["server/rust/Cargo.toml"]
   // "window.titleBarStyle": "custom",
 }
