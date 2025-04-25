@@ -16,7 +16,11 @@
   "workbench.iconTheme": "material-icon-theme",
   "editor.fontWeight": "330",
   "window.title": "${folderPath}",
-  "editor.fontSize": 14,
+  "editor.fontSize": 13,
+  "editor.formatOnType": false,
+  "editor.smoothScrolling": false,
+  "editor.folding": false,
+  "editor.largeFileOptimizations": true,
   "workbench.startupEditor": "none",
   "editor.cursorBlinking": "expand",
   "editor.formatOnSave": true,
@@ -70,6 +74,7 @@
   "rust-analyzer.imports.granularity.group": "module",
   "rust-analyzer.diagnostics.experimental.enable": true,
   "rust-analyzer.rustfmt.rangeFormatting.enable": true,
-  "rust-analyzer.linkedProjects": ["server/rust/Cargo.toml"]
+  "rust-analyzer.linkedProjects": ["server/rust/Cargo.toml"],
+  "window.zoomLevel": -1
   // "window.titleBarStyle": "custom",
 }
