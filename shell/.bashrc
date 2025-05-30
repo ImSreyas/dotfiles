@@ -46,3 +46,6 @@ eval "$(zoxide init bash)"
 export PATH="$HOME/.pyenv/bin:$PATH"
 eval "$(pyenv init --path)"
 eval "$(pyenv virtualenv-init -)"
+
+# Kitty setup
+export PATH="$HOME/.local/kitty.app/bin/kitty:$PATH"
