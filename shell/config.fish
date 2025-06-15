@@ -45,3 +45,6 @@ end
 
 # Zoxide 
 eval "$(zoxide init fish)"
+
+# Fzf
+fzf --fish | source
