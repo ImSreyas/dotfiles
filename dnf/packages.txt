@@ -58,7 +58,7 @@ bastet-0:0.43.2-11.fc42.x86_64
 bat-0:0.25.0-2.fc42.x86_64
 bc-0:1.08.1-2.fc42.x86_64
 bind-utils-32:9.18.36-1.fc42.x86_64
-bluez-cups-0:5.81-2.fc42.x86_64
+bluez-cups-0:5.83-1.fc42.x86_64
 boxes-0:2.3.1-2.fc42.x86_64
 brave-browser-0:1.79.123-1.x86_64
 brcmfmac-firmware-0:20250509-1.fc42.noarch
@@ -68,7 +68,7 @@ btrfs-progs-0:6.14-1.fc42.x86_64
 build-reproducibility-srpm-macros-0:0.6.0-1.fc42.noarch
 bzip2-0:1.0.8-20.fc42.x86_64
 cfitsio-0:4.6.0-1.fc42.x86_64
-chrony-0:4.6.1-2.fc42.x86_64
+chrony-0:4.7-1.fc42.x86_64
 cifs-utils-0:7.2-1.fc42.x86_64
 cirrus-audio-firmware-0:20250509-1.fc42.noarch
 clang-0:20.1.6-1.fc42.x86_64
@@ -171,7 +171,7 @@ gedit-2:48.1-1.fc42.x86_64
 gettext-0:0.23.1-2.fc42.x86_64
 ghostscript-0:10.05.1-3.fc42.x86_64
 giflib-0:5.2.2-6.fc42.i686
-gimp-2:3.0.4-3.fc42.x86_64
+gimp-2:3.0.4-5.fc42.x86_64
 git-0:2.49.0-1.fc42.x86_64
 glib-networking-0:2.80.1-1.fc42.i686
 glib-networking-0:2.80.1-1.fc42.x86_64
