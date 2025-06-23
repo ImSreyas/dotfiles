@@ -87,7 +87,7 @@ cups-1:2.4.12-3.fc42.x86_64
 cups-browsed-1:2.1.1-4.fc42.x86_64
 cups-filters-1:2.0.1-6.fc42.x86_64
 cups-pk-helper-0:0.2.7-9.fc42.x86_64
-curl-0:8.11.1-4.fc42.x86_64
+curl-0:8.11.1-5.fc42.x86_64
 cyrus-sasl-plain-0:2.1.28-30.fc42.x86_64
 dconf-0:0.40.0-15.fc42.i686
 dconf-0:0.40.0-15.fc42.x86_64
@@ -162,7 +162,7 @@ fontconfig-devel-0:2.16.0-2.fc42.x86_64
 fpaste-0:0.5.0.0-2.fc42.noarch
 fprintd-pam-0:1.94.5-1.fc42.x86_64
 fros-gnome-0:1.1-40.fc42.noarch
-fwupd-0:2.0.11-1.fc42.x86_64
+fwupd-0:2.0.12-1.fc42.x86_64
 fzf-0:0.62.0-1.fc42.x86_64
 gamemode-0:1.8.2-2.fc42.x86_64
 gdm-1:48.0-3.fc42.x86_64
