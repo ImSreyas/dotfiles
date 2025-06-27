@@ -64,7 +64,7 @@ brave-browser-0:1.79.126-1.x86_64
 brcmfmac-firmware-0:20250613-1.fc42.noarch
 brltty-0:6.7-8.fc42.x86_64
 btop-0:1.4.0-2.fc42.x86_64
-btrfs-progs-0:6.14-1.fc42.x86_64
+btrfs-progs-0:6.15-1.fc42.x86_64
 build-reproducibility-srpm-macros-0:0.6.0-1.fc42.noarch
 bzip2-0:1.0.8-20.fc42.x86_64
 cfitsio-0:4.6.0-1.fc42.x86_64
@@ -75,7 +75,7 @@ clang-0:20.1.7-1.fc42.x86_64
 clang-resource-filesystem-0:20.1.7-1.fc42.x86_64
 clutter-0:1.26.4-16.fc42.x86_64
 cmake-0:3.31.6-2.fc42.x86_64
-code-0:1.101.1-1750254783.el8.x86_64
+code-0:1.101.2-1750797987.el8.x86_64
 colord-0:1.4.7-6.fc42.x86_64
 compsize-0:1.5^git20250123.d79eacf-12.fc42.x86_64
 coreutils-0:9.6-4.fc42.x86_64
@@ -119,7 +119,7 @@ dnf5-plugins-0:5.2.13.1-1.fc42.x86_64
 dnsmasq-0:2.90-6.fc42.x86_64
 docker-buildx-0:0.24.0-1.fc42.x86_64
 docker-cli-0:28.2.2-1.fc42.x86_64
-docker-compose-0:2.37.0-2.fc42.x86_64
+docker-compose-0:2.37.1-2.fc42.x86_64
 dos2unix-0:7.5.2-3.fc42.x86_64
 dosfstools-0:4.2-15.fc42.x86_64
 doxygen-2:1.13.2-4.fc42.x86_64
@@ -154,7 +154,7 @@ fftw-libs-single-0:3.3.10-15.fc42.x86_64
 file-0:5.46-3.fc42.x86_64
 filesystem-0:3.18-42.fc42.x86_64
 filesystem-srpm-macros-0:3.18-42.fc42.noarch
-firefox-0:139.0.4-1.fc42.x86_64
+firefox-0:140.0-1.fc42.x86_64
 firewalld-0:2.3.1-1.fc42.noarch
 fish-0:4.0.2-1.fc42.x86_64
 flatpak-0:1.16.1-1.fc42.x86_64
@@ -172,7 +172,7 @@ gettext-0:0.23.1-2.fc42.x86_64
 ghostscript-0:10.05.1-3.fc42.x86_64
 giflib-0:5.2.2-6.fc42.i686
 gimp-2:3.0.4-5.fc42.x86_64
-git-0:2.49.0-1.fc42.x86_64
+git-0:2.50.0-1.fc42.x86_64
 glib-networking-0:2.80.1-1.fc42.i686
 glib-networking-0:2.80.1-1.fc42.x86_64
 glib2-devel-0:2.84.2-1.fc42.x86_64
@@ -217,7 +217,7 @@ gnome-user-share-0:48.0-1.fc42.x86_64
 gnome-weather-0:48.0-1.fc42.noarch
 gnupg2-0:2.4.7-2.fc42.x86_64
 google-carlito-fonts-0:1.103-0.26.20130920.fc42.noarch
-google-chrome-stable-0:137.0.7151.119-1.x86_64
+google-chrome-stable-0:138.0.7204.49-1.x86_64
 google-crosextra-caladea-fonts-1:1.002-0.20.20130214.fc42.noarch
 google-droid-sans-fonts-0:20200215-22.fc42.noarch
 google-noto-sans-bengali-vf-fonts-0:20250301-1.fc42.noarch
@@ -349,12 +349,12 @@ kmod-wl-6.14.9-300.fc42.x86_64-0:6.30.223.271-56.fc42.x86_64
 kmod-wl-6.15.3-200.fc42.x86_64-0:6.30.223.271-57.fc42.x86_64
 ladspa-rubberband-plugins-0:4.0.0-3.fc42.x86_64
 langpacks-en-0:4.2-4.fc42.noarch
-less-0:668-2.fc42.x86_64
+less-0:679-1.fc42.x86_64
 libappstream-glib-0:0.8.3-3.fc42.x86_64
 libaribcaption-0:1.1.1-2.fc42.x86_64
-libblockdev-smart-0:3.3.1-1.fc42.x86_64
-libblockdev-smartmontools-0:3.3.1-1.fc42.x86_64
-libblockdev-tools-0:3.3.1-1.fc42.x86_64
+libblockdev-smart-0:3.3.1-2.fc42.x86_64
+libblockdev-smartmontools-0:3.3.1-2.fc42.x86_64
+libblockdev-tools-0:3.3.1-2.fc42.x86_64
 libcamera-0:0.4.0-4.fc42.x86_64
 libcamera-ipa-0:0.4.0-4.fc42.x86_64
 libdeflate-0:1.24-1.fc42.i686
@@ -550,7 +550,7 @@ sassc-0:3.6.2-11.fc42.x86_64
 sdbus-cpp-0:1.5.0-4.fc42.x86_64
 sdl2-compat-0:2.32.56-1.fc42.i686
 sdl2-compat-0:2.32.56-1.fc42.x86_64
-selinux-policy-targeted-0:41.43-1.fc42.noarch
+selinux-policy-targeted-0:41.44-1.fc42.noarch
 setup-0:2.15.0-13.fc42.noarch
 shadow-utils-2:4.17.4-1.fc42.x86_64
 shim-ia32-0:15.8-3.x86_64
