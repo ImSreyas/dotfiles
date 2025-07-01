@@ -1,4 +1,4 @@
-[manager]
+[mgr]
 prepend_keymap = [
 	{ on = [ "e" ], run = ''' shell --confirm 'zed "$@"' ''', desc = "Open the current dir in vscode" },
 	{ on = [ "z" ], run = "plugin fzf", desc = "Jump to a directory, or reveal a file using fzf" },
@@ -23,4 +23,5 @@ append_keymap = [
  	{ on = [ "g", "p" ], run = "cd ~/Pictures/", desc = "Go to the Pictures directory" },
  	{ on = [ "g", "C" ], run = "cd /media/common/", desc = "Go to the common drive" },
  	{ on = [ "g", "s" ], run = "cd ~/scripts/", desc = "Go to the scripts directory" },
+ 	{ on = [ "g", "l" ], run = "cd ~/.local/bin/", desc = "Go to the local bin folder" },
 ]

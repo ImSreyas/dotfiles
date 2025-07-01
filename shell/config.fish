@@ -43,6 +43,9 @@ function ff
 	rm -f -- "$tmp"
 end
 
+# Flatpak bin
+export PATH="/var/lib/flatpak/exports/bin:$PATH"
+
 # Zoxide 
 eval "$(zoxide init fish)"
 
